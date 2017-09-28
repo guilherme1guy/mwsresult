@@ -1,3 +1,0 @@
-60 path=result/101761-Tópicos Espec Eng do Produto /A .txt
-27 mtime=1506570063.050024
-27 atime=1506596762.821873

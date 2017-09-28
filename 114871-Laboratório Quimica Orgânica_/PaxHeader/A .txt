@@ -1,3 +1,0 @@
-61 path=result/114871-Laboratório Quimica Orgânica /A .txt
-27 mtime=1506572504.675203
-27 atime=1506596781.550051

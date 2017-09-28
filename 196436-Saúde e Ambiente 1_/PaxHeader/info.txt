@@ -1,3 +1,0 @@
-52 path=result/196436-Saúde e Ambiente 1 /info.txt
-27 mtime=1506572758.993459
-27 atime=1506596774.861987

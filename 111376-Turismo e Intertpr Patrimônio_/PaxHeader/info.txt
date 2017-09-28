@@ -1,3 +1,0 @@
-63 path=result/111376-Turismo e Intertpr Patrimônio /info.txt
-27 mtime=1506569510.443045
-27 atime=1506596782.014056

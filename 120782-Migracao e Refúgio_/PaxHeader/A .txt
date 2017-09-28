@@ -1,3 +1,0 @@
-50 path=result/120782-Migracao e Refúgio /A .txt
-27 mtime=1506572557.238969
-27 atime=1506596787.614109

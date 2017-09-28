@@ -1,3 +1,0 @@
-54 path=result/112062-Petrologia Metamórfica /A .txt
-27 mtime=1506572399.639774
-27 atime=1506596773.177971

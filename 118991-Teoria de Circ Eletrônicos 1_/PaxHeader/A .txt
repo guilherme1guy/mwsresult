@@ -1,3 +1,0 @@
-60 path=result/118991-Teoria de Circ Eletrônicos 1 /A .txt
-26 mtime=1506573130.75711
-27 atime=1506596782.090056

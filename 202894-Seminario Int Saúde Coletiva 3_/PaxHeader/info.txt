@@ -1,3 +1,0 @@
-64 path=result/202894-Seminario Int Saúde Coletiva 3 /info.txt
-27 mtime=1506571202.996817
-27 atime=1506596763.837882

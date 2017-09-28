@@ -1,3 +1,0 @@
-60 path=result/202321-Tópicos Cont Administracao 1 /A .txt
-27 mtime=1506569556.973983
-27 atime=1506596781.946055

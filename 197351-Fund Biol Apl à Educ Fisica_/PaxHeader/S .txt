@@ -1,3 +1,0 @@
-59 path=result/197351-Fund Biol Apl à Educ Fisica /S .txt
-27 mtime=1506571897.865557
-26 atime=1506596774.12198

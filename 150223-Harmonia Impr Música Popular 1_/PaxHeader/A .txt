@@ -1,3 +1,0 @@
-62 path=result/150223-Harmonia Impr Música Popular 1 /A .txt
-27 mtime=1506570762.525654
-27 atime=1506596778.378021

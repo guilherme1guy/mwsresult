@@ -1,3 +1,0 @@
-64 path=result/103098-Tópicos Esp Ensino de Biologia /info.txt
-27 mtime=1506571452.629602
-27 atime=1506596786.286096

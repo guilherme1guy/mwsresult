@@ -1,3 +1,0 @@
-61 path=result/202088-Trabalho C C Saúde Coletiva 2 /A .txt
-27 mtime=1506572991.849674
-27 atime=1506596788.430117

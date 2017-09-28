@@ -1,3 +1,0 @@
-56 path=result/177695-Vivências Integradoras 5 /F .txt
-27 mtime=1506569949.130287
-27 atime=1506596766.889911

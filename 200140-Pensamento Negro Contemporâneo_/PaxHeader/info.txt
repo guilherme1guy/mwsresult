@@ -1,3 +1,0 @@
-64 path=result/200140-Pensamento Negro Contemporâneo /info.txt
-27 mtime=1506569516.542906
-27 atime=1506596766.329906

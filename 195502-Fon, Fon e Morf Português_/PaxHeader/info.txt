@@ -1,3 +1,0 @@
-59 path=result/195502-Fon, Fon e Morf Português /info.txt
-27 mtime=1506572651.991305
-27 atime=1506596787.538108

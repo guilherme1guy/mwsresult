@@ -1,3 +1,0 @@
-61 path=result/199150-Elementos e Met em Eletrônica /A .txt
-27 mtime=1506573017.553319
-27 atime=1506596775.857997

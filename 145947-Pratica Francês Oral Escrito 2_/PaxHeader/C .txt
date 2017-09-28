@@ -1,3 +1,0 @@
-62 path=result/145947-Pratica Francês Oral Escrito 2 /C .txt
-27 mtime=1506570563.958022
-27 atime=1506596784.002075

@@ -1,3 +1,0 @@
-54 path=result/199117-Pratica Pedagógica 4 /info.txt
-27 mtime=1506572741.123275
-27 atime=1506596788.658119

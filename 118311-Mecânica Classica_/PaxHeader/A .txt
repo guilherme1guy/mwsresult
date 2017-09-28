@@ -1,3 +1,0 @@
-49 path=result/118311-Mecânica Classica /A .txt
-27 mtime=1506572302.021048
-27 atime=1506596773.257972

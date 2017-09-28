@@ -1,3 +1,0 @@
-63 path=result/109622-Praticas de Campo em Botânica /info.txt
-27 mtime=1506572742.895087
-27 atime=1506596765.785901

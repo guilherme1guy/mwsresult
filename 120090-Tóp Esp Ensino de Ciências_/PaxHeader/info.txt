@@ -1,3 +1,0 @@
-61 path=result/120090-Tóp Esp Ensino de Ciências /info.txt
-26 mtime=1506572231.03631
-27 atime=1506596787.998113

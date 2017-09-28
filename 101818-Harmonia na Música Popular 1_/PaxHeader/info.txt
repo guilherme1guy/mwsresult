@@ -1,3 +1,0 @@
-62 path=result/101818-Harmonia na Música Popular 1 /info.txt
-27 mtime=1506570763.593571
-27 atime=1506596763.041875

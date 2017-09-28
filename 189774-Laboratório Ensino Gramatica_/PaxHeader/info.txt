@@ -1,3 +1,0 @@
-62 path=result/189774-Laboratório Ensino Gramatica /info.txt
-27 mtime=1506572448.811232
-27 atime=1506596787.762111

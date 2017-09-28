@@ -1,3 +1,0 @@
-61 path=result/181463-Fisioterapia Bas Evidências 2 /A .txt
-27 mtime=1506572851.922479
-27 atime=1506596766.689909

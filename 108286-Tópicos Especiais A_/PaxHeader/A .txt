@@ -1,3 +1,0 @@
-51 path=result/108286-Tópicos Especiais A /A .txt
-27 mtime=1506572341.131718
-27 atime=1506596773.241972

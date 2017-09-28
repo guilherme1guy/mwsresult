@@ -1,3 +1,0 @@
-57 path=result/188531-Exame de Proficiência 2 /info.txt
-26 mtime=1506571788.65786
-27 atime=1506596764.397888

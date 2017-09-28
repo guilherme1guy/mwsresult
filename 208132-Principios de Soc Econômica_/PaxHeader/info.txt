@@ -1,3 +1,0 @@
-61 path=result/208132-Principios de Soc Econômica /info.txt
-27 mtime=1506571556.563489
-27 atime=1506596772.537965

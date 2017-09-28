@@ -1,3 +1,0 @@
-61 path=result/112518-Estagio Superv em Geociências /K .txt
-26 mtime=1506572352.20448
-27 atime=1506596773.205972

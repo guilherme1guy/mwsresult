@@ -1,3 +1,0 @@
-60 path=result/147826-JAPONÊS - EXPRESSaO ORAL 2 /info.txt
-27 mtime=1506570492.614364
-26 atime=1506596777.25801

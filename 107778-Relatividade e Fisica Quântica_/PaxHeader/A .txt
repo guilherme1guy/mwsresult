@@ -1,3 +1,0 @@
-62 path=result/107778-Relatividade e Fisica Quântica /A .txt
-27 mtime=1506572328.526853
-27 atime=1506596773.241972

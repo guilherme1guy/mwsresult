@@ -1,3 +1,0 @@
-53 path=result/188671-Geografia Econômica /info.txt
-27 mtime=1506572241.553002
-27 atime=1506596773.333973

@@ -1,3 +1,0 @@
-62 path=result/182150-Gestao Mus Pol Ac Museológicos /A .txt
-26 mtime=1506571608.28953
-27 atime=1506596772.221962

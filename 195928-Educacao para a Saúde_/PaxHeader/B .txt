@@ -1,3 +1,0 @@
-53 path=result/195928-Educacao para a Saúde /B .txt
-27 mtime=1506572623.380419
-27 atime=1506596765.905902

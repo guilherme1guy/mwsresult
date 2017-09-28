@@ -1,3 +1,0 @@
-63 path=result/198161-Iniciacao à Ciência Geografica /F .txt
-27 mtime=1506572250.093567
-27 atime=1506596787.978113

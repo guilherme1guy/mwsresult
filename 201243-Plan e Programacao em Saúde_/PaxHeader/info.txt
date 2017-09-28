@@ -1,3 +1,0 @@
-61 path=result/201243-Plan e Programacao em Saúde /info.txt
-27 mtime=1506572917.707533
-27 atime=1506596779.194029

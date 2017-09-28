@@ -1,3 +1,0 @@
-59 path=result/185922-Tóp Esp Ciência Politica 3 /A .txt
-27 mtime=1506572155.583468
-27 atime=1506596780.714043

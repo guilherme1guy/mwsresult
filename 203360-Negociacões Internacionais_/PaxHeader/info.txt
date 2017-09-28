@@ -1,3 +1,0 @@
-60 path=result/203360-Negociacões Internacionais /info.txt
-27 mtime=1506572558.062981
-27 atime=1506596765.969903

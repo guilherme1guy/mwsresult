@@ -1,3 +1,0 @@
-61 path=result/177377-Fund Biol em Saúde Coletiva /info.txt
-26 mtime=1506571186.35563
-27 atime=1506596770.745948

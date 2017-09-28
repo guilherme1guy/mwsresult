@@ -1,3 +1,0 @@
-54 path=result/134473-Teoria Sociológica 1 /info.txt
-27 mtime=1506571301.328521
-26 atime=1506596763.61388

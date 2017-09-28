@@ -1,3 +1,0 @@
-59 path=result/180912-Fund da Educacao em Saúde /info.txt
-27 mtime=1506572869.321561
-27 atime=1506596766.673909

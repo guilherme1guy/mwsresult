@@ -1,3 +1,0 @@
-49 path=result/177580-Diagnóstico Bucal /A .txt
-27 mtime=1506571011.962662
-27 atime=1506596785.294087

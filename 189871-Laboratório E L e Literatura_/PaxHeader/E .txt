@@ -1,3 +1,0 @@
-60 path=result/189871-Laboratório E L e Literatura /E .txt
-27 mtime=1506572449.763299
-27 atime=1506596787.758111

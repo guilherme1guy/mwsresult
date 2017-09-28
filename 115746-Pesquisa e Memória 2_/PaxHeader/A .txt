@@ -1,3 +1,0 @@
-52 path=result/115746-Pesquisa e Memória 2 /A .txt
-27 mtime=1506572729.072602
-27 atime=1506596781.274049

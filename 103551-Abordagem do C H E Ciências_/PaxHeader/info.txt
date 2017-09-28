@@ -1,3 +1,0 @@
-61 path=result/103551-Abordagem do C H E Ciências /info.txt
-27 mtime=1506572566.536839
-26 atime=1506596781.45805

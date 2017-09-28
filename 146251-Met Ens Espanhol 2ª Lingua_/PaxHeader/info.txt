@@ -1,3 +1,0 @@
-60 path=result/146251-Met Ens Espanhol 2ª Lingua /info.txt
-27 mtime=1506570533.823841
-26 atime=1506596777.22201

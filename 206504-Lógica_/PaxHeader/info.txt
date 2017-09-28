@@ -1,3 +1,0 @@
-40 path=result/206504-Lógica /info.txt
-27 mtime=1506570294.781329
-27 atime=1506596762.493869

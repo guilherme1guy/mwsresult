@@ -1,3 +1,0 @@
-57 path=result/114464-Quimica Inorgânica Basica /B .txt
-27 mtime=1506572523.804572
-26 atime=1506596775.08999

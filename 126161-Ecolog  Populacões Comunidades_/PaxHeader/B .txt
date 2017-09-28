@@ -1,3 +1,0 @@
-62 path=result/126161-Ecolog  Populacões Comunidades /B .txt
-27 mtime=1506569881.555736
-27 atime=1506596776.418002

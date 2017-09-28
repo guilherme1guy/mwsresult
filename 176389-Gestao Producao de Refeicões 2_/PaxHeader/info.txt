@@ -1,3 +1,0 @@
-64 path=result/176389-Gestao Producao de Refeicões 2 /info.txt
-26 mtime=1506570968.09638
-27 atime=1506596785.334087

@@ -1,3 +1,0 @@
-56 path=result/135194-Teoria Antropológica 1 /info.txt
-27 mtime=1506569569.873689
-27 atime=1506596768.001922

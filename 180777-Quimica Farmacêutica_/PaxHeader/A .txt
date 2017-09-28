@@ -1,3 +1,0 @@
-52 path=result/180777-Quimica Farmacêutica /A .txt
-27 mtime=1506572925.347277
-27 atime=1506596775.945998

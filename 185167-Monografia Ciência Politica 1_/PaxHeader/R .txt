@@ -1,3 +1,0 @@
-61 path=result/185167-Monografia Ciência Politica 1 /R .txt
-27 mtime=1506572124.289534
-27 atime=1506596780.770044

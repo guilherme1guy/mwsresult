@@ -1,3 +1,0 @@
-62 path=result/206865-Estagio Sup Ens Ciências Nat 4 /B .txt
-26 mtime=1506572638.04971
-27 atime=1506596765.885902

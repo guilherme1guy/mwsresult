@@ -1,3 +1,0 @@
-58 path=result/204617-Estagio Superv em Música 3 /C .txt
-27 mtime=1506570739.919442
-27 atime=1506596769.997941

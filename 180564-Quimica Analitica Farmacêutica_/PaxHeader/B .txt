@@ -1,3 +1,0 @@
-62 path=result/180564-Quimica Analitica Farmacêutica /B .txt
-27 mtime=1506572924.511304
-27 atime=1506596788.490117

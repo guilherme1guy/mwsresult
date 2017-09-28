@@ -1,3 +1,0 @@
-61 path=result/109479-Tópicos Esp Prat Pedagógicas /AA.txt
-26 mtime=1506570696.19905
-26 atime=1506596785.64609

@@ -1,3 +1,0 @@
-56 path=result/197491-Praticas Pedagógicas 3 /info.txt
-27 mtime=1506572745.510813
-27 atime=1506596788.654119

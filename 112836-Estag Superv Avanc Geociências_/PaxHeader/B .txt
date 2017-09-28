@@ -1,3 +1,0 @@
-62 path=result/112836-Estag Superv Avanc Geociências /B .txt
-27 mtime=1506572350.776381
-27 atime=1506596780.526042

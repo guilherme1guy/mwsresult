@@ -1,3 +1,0 @@
-63 path=result/200816-Economia Politicas Públicas 2 /info.txt
-27 mtime=1506570361.170348
-27 atime=1506596768.097923

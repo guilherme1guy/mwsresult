@@ -1,3 +1,0 @@
-62 path=result/207853-Saúde do Homem Ênfase nas DST /A .txt
-27 mtime=1506572931.723075
-27 atime=1506596775.925998

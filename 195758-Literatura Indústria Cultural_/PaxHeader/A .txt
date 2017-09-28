@@ -1,3 +1,0 @@
-61 path=result/195758-Literatura Indústria Cultural /A .txt
-26 mtime=1506572456.27576
-27 atime=1506596780.158038

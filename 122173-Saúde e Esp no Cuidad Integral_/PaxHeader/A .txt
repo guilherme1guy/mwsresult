@@ -1,3 +1,0 @@
-62 path=result/122173-Saúde e Esp no Cuidad Integral /A .txt
-27 mtime=1506569940.491982
-27 atime=1506596762.969874

@@ -1,3 +1,0 @@
-64 path=result/100536-Tópico de Metodologia H Social /info.txt
-27 mtime=1506570412.171451
-27 atime=1506596784.486079

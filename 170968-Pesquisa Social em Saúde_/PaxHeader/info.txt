@@ -1,3 +1,0 @@
-58 path=result/170968-Pesquisa Social em Saúde /info.txt
-27 mtime=1506572915.667604
-27 atime=1506596788.494118

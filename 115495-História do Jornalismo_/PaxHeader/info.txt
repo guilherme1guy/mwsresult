@@ -1,3 +1,0 @@
-56 path=result/115495-História do Jornalismo /info.txt
-27 mtime=1506570427.449843
-27 atime=1506596770.265944

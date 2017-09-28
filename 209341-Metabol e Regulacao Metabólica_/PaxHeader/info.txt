@@ -1,3 +1,0 @@
-64 path=result/209341-Metabol e Regulacao Metabólica /info.txt
-27 mtime=1506569740.653785
-27 atime=1506596767.389916

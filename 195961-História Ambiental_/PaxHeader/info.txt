@@ -1,3 +1,0 @@
-52 path=result/195961-História Ambiental /info.txt
-27 mtime=1506572674.571737
-27 atime=1506596765.841901

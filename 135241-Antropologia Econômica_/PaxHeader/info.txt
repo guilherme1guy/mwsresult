@@ -1,3 +1,0 @@
-56 path=result/135241-Antropologia Econômica /info.txt
-27 mtime=1506569560.645899
-27 atime=1506596781.938055

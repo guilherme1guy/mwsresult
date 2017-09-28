@@ -1,3 +1,0 @@
-49 path=result/204943-Orcamento Público /A .txt
-27 mtime=1506570370.625687
-27 atime=1506596777.354011

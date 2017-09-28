@@ -1,3 +1,0 @@
-62 path=result/204471-Vigilância Sanit Apl  Farmacia /B .txt
-27 mtime=1506571708.800597
-27 atime=1506596764.445888

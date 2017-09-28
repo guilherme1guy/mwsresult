@@ -1,3 +1,0 @@
-57 path=result/105741-Tópicos Esp Sociologia 11 /A .txt
-27 mtime=1506571307.205009
-27 atime=1506596770.617947

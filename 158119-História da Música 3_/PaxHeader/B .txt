@@ -1,3 +1,0 @@
-53 path=result/158119-História da Música 3 /B .txt
-27 mtime=1506570771.807411
-27 atime=1506596769.973941

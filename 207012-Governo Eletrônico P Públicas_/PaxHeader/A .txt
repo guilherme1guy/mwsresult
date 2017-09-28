@@ -1,3 +1,0 @@
-62 path=result/207012-Governo Eletrônico P Públicas /A .txt
-27 mtime=1506572116.485059
-27 atime=1506596765.197895

@@ -1,3 +1,0 @@
-61 path=result/114928-Fonoaudiologia 3º Ciclo  Vida /A .txt
-27 mtime=1506572867.921631
-27 atime=1506596766.673909

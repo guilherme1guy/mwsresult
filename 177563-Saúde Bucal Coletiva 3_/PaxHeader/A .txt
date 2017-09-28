@@ -1,3 +1,0 @@
-54 path=result/177563-Saúde Bucal Coletiva 3 /A .txt
-26 mtime=1506571038.17212
-27 atime=1506596779.462031

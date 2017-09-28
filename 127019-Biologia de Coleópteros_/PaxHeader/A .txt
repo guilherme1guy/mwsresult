@@ -1,3 +1,0 @@
-55 path=result/127019-Biologia de Coleópteros /A .txt
-26 mtime=1506571381.59135
-27 atime=1506596779.010027

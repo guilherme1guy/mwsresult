@@ -1,3 +1,0 @@
-55 path=result/134805-Sociologia da Ciência /info.txt
-27 mtime=1506571286.763323
-27 atime=1506596770.625947

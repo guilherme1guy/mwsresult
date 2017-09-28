@@ -1,3 +1,0 @@
-61 path=result/201146-Gestao e Inovacao Tecnológica /A .txt
-27 mtime=1506572670.824302
-27 atime=1506596765.845901

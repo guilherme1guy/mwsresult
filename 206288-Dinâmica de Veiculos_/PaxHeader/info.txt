@@ -1,3 +1,0 @@
-54 path=result/206288-Dinâmica de Veiculos /info.txt
-27 mtime=1506573014.709352
-27 atime=1506596775.861997

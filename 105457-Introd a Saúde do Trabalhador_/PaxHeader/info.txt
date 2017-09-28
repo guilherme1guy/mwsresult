@@ -1,3 +1,0 @@
-63 path=result/105457-Introd a Saúde do Trabalhador /info.txt
-27 mtime=1506572892.608494
-27 atime=1506596766.645909

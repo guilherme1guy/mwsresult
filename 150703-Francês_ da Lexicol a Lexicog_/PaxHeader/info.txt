@@ -1,3 +1,0 @@
-63 path=result/150703-Francês: da Lexicol a Lexicog /info.txt
-27 mtime=1506570468.676915
-27 atime=1506596784.342078

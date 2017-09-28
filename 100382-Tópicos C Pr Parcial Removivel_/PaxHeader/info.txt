@@ -1,3 +1,0 @@
-64 path=result/100382-Tópicos C Pr Parcial Removivel /info.txt
-27 mtime=1506571040.424172
-27 atime=1506596764.117885

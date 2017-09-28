@@ -1,3 +1,0 @@
-50 path=result/196193-Ensino de Ciências /B .txt
-27 mtime=1506572627.731596
-27 atime=1506596765.893902

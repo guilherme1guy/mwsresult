@@ -1,3 +1,0 @@
-57 path=result/136786-Tóp Esp em Servico Social /B .txt
-27 mtime=1506571261.777306
-27 atime=1506596779.138028

@@ -1,3 +1,0 @@
-58 path=result/111864-Laboratório de Eletrônica /B .txt
-27 mtime=1506570102.917841
-27 atime=1506596769.061932

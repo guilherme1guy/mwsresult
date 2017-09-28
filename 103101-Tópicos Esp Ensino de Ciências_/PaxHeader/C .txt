@@ -1,3 +1,0 @@
-63 path=result/103101-Tópicos Esp Ensino de Ciências /C .txt
-27 mtime=1506571453.513681
-27 atime=1506596772.957969

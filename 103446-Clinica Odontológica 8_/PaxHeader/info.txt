@@ -1,3 +1,0 @@
-56 path=result/103446-Clinica Odontológica 8 /info.txt
-27 mtime=1506571010.218433
-27 atime=1506596785.294087

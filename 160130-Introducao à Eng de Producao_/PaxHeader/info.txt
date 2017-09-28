@@ -1,3 +1,0 @@
-62 path=result/160130-Introducao à Eng de Producao /info.txt
-27 mtime=1506570038.226377
-27 atime=1506596776.053999

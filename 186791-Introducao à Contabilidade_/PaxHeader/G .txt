@@ -1,3 +1,0 @@
-58 path=result/186791-Introducao à Contabilidade /G .txt
-27 mtime=1506571409.957829
-27 atime=1506596778.902026

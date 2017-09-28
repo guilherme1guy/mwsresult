@@ -1,3 +1,0 @@
-60 path=result/114707-Reacões Org e Mecanismos 1 /info.txt
-27 mtime=1506572525.652704
-27 atime=1506596781.522051

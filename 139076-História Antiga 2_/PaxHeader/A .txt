@@ -1,3 +1,0 @@
-49 path=result/139076-História Antiga 2 /A .txt
-27 mtime=1506570392.242897
-26 atime=1506596784.52608

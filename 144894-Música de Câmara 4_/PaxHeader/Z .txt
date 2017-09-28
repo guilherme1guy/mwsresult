@@ -1,3 +1,0 @@
-51 path=result/144894-Música de Câmara 4 /Z .txt
-27 mtime=1506570852.229535
-27 atime=1506596764.321887

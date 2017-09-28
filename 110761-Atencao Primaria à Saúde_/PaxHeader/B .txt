@@ -1,3 +1,0 @@
-57 path=result/110761-Atencao Primaria à Saúde /B .txt
-27 mtime=1506571980.149399
-27 atime=1506596787.046104

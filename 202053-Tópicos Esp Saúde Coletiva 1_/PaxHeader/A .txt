@@ -1,3 +1,0 @@
-61 path=result/202053-Tópicos Esp Saúde Coletiva 1 /A .txt
-27 mtime=1506572976.893943
-27 atime=1506596788.446117

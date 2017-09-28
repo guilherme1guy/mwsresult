@@ -1,3 +1,0 @@
-65 path=result/179965-Met de Pesq Ciên Farmacêuticas /info.txt
-27 mtime=1506571697.008544
-27 atime=1506596764.473888

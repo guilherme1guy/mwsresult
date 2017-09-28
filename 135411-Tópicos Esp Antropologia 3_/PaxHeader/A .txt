@@ -1,3 +1,0 @@
-58 path=result/135411-Tópicos Esp Antropologia 3 /A .txt
-27 mtime=1506569572.917619
-27 atime=1506596781.906055

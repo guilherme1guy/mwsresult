@@ -1,3 +1,0 @@
-54 path=result/196002-Introd às Cien Sociais /A .txt
-27 mtime=1506572687.489865
-27 atime=1506596765.829901

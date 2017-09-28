@@ -1,3 +1,0 @@
-56 path=result/157155-Est Superv Art Cênicas 1 /A .txt
-26 mtime=1506569581.64142
-27 atime=1506596775.425993

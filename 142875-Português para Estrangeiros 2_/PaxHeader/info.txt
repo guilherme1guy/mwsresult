@@ -1,3 +1,0 @@
-63 path=result/142875-Português para Estrangeiros 2 /info.txt
-27 mtime=1506570547.149057
-27 atime=1506596763.357878

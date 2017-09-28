@@ -1,3 +1,0 @@
-63 path=result/179868-Qui Inorgânica Apl a Farmacia /info.txt
-27 mtime=1506572926.143251
-27 atime=1506596775.945998

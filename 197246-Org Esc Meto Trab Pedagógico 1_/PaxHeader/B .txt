@@ -1,3 +1,0 @@
-62 path=result/197246-Org Esc Meto Trab Pedagógico 1 /B .txt
-27 mtime=1506572715.154241
-27 atime=1506596774.885988

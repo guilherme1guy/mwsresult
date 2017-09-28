@@ -1,3 +1,0 @@
-61 path=result/176273-Est Sup Gestao Prod Refeicões /B .txt
-27 mtime=1506570959.222929
-27 atime=1506596778.170019

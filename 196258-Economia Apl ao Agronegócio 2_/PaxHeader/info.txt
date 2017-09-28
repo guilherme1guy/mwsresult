@@ -1,3 +1,0 @@
-63 path=result/196258-Economia Apl ao Agronegócio 2 /info.txt
-27 mtime=1506572614.854081
-27 atime=1506596787.562109

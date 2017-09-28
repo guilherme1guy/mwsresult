@@ -1,3 +1,0 @@
-62 path=result/111732-Lab Disp Circuitos Eletrônicos /B .txt
-27 mtime=1506570100.369482
-27 atime=1506596769.069932

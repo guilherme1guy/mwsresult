@@ -1,3 +1,0 @@
-53 path=result/137537-Filosofia da História /A .txt
-27 mtime=1506570284.684071
-26 atime=1506596762.50987

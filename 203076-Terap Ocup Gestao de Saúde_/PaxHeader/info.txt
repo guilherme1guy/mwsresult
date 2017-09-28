@@ -1,3 +1,0 @@
-60 path=result/203076-Terap Ocup Gestao de Saúde /info.txt
-27 mtime=1506572966.458161
-27 atime=1506596782.222058

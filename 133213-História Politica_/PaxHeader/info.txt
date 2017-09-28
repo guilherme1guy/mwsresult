@@ -1,3 +1,0 @@
-51 path=result/133213-História Politica /info.txt
-27 mtime=1506570402.341332
-26 atime=1506596784.52208

@@ -1,3 +1,0 @@
-62 path=result/181471-Fisioterapia A B R Terapêutico /B .txt
-27 mtime=1506572855.402287
-27 atime=1506596766.681909

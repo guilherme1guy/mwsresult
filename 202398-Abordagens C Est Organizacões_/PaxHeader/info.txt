@@ -1,3 +1,0 @@
-63 path=result/202398-Abordagens C Est Organizacões /info.txt
-27 mtime=1506569520.134824
-27 atime=1506596762.261867

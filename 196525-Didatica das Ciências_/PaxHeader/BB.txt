@@ -1,3 +1,0 @@
-53 path=result/196525-Didatica das Ciências /BB.txt
-27 mtime=1506572611.282797
-27 atime=1506596765.913902

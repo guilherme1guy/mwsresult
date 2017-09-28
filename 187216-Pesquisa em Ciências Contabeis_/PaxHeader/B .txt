@@ -1,3 +1,0 @@
-62 path=result/187216-Pesquisa em Ciências Contabeis /B .txt
-26 mtime=1506571414.05819
-27 atime=1506596773.137971

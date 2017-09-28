@@ -1,3 +1,0 @@
-61 path=result/185043-Organizacões Internacionais 1 /A .txt
-27 mtime=1506572558.946753
-27 atime=1506596765.969903

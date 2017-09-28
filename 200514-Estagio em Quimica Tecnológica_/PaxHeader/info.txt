@@ -1,3 +1,0 @@
-64 path=result/200514-Estagio em Quimica Tecnológica /info.txt
-26 mtime=1506572483.46569
-26 atime=1506596787.70211

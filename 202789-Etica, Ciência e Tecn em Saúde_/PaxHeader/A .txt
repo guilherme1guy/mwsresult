@@ -1,3 +1,0 @@
-63 path=result/202789-Etica, Ciência e Tecn em Saúde /A .txt
-27 mtime=1506571185.875597
-27 atime=1506596779.222029

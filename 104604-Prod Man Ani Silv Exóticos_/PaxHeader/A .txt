@@ -1,3 +1,0 @@
-58 path=result/104604-Prod Man Ani Silv Exóticos /A .txt
-27 mtime=1506571557.375449
-26 atime=1506596764.62589

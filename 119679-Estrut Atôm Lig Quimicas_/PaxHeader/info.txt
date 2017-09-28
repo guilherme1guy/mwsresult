@@ -1,3 +1,0 @@
-58 path=result/119679-Estrut Atôm Lig Quimicas /info.txt
-27 mtime=1506572485.465833
-27 atime=1506596766.121904

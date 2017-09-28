@@ -1,3 +1,0 @@
-61 path=result/119148-Pratica de Circ Eletrônicos 1 /G .txt
-27 mtime=1506573081.600961
-27 atime=1506596775.809997

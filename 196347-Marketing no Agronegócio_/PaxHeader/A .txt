@@ -1,3 +1,0 @@
-56 path=result/196347-Marketing no Agronegócio /A .txt
-26 mtime=1506572696.19267
-27 atime=1506596774.913988

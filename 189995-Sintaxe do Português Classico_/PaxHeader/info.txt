@@ -1,3 +1,0 @@
-63 path=result/189995-Sintaxe do Português Classico /info.txt
-27 mtime=1506572471.008805
-27 atime=1506596780.134038

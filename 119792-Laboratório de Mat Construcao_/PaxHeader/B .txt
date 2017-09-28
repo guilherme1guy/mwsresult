@@ -1,3 +1,0 @@
-61 path=result/119792-Laboratório de Mat Construcao /B .txt
-27 mtime=1506573055.541024
-27 atime=1506596782.146057

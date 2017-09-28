@@ -1,3 +1,0 @@
-60 path=result/138541-Tóp Esp em Politica Social /info.txt
-27 mtime=1506571260.893236
-27 atime=1506596786.514099

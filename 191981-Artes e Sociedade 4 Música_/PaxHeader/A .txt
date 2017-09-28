@@ -1,3 +1,0 @@
-58 path=result/191981-Artes e Sociedade 4 Música /A .txt
-26 mtime=1506572580.94138
-26 atime=1506596781.45005

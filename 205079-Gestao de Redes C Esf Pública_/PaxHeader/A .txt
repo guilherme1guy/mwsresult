@@ -1,3 +1,0 @@
-61 path=result/205079-Gestao de Redes C Esf Pública /A .txt
-27 mtime=1506571461.414384
-27 atime=1506596772.953969

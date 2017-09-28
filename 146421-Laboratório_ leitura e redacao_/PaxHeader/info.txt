@@ -1,3 +1,0 @@
-64 path=result/146421-Laboratório: leitura e redacao /info.txt
-27 mtime=1506570606.591975
-27 atime=1506596770.113942

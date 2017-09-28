@@ -1,3 +1,0 @@
-64 path=result/200883-Pesquisa Social Saúde Coletiva /info.txt
-27 mtime=1506571194.196184
-27 atime=1506596779.194029

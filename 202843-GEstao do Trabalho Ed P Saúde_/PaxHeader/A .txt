@@ -1,3 +1,0 @@
-61 path=result/202843-GEstao do Trabalho Ed P Saúde /A .txt
-26 mtime=1506571189.33584
-27 atime=1506596779.194029

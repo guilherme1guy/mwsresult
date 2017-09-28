@@ -1,3 +1,0 @@
-51 path=result/170291-Agrotóxicos e MIP /info.txt
-27 mtime=1506571474.923589
-27 atime=1506596764.777891

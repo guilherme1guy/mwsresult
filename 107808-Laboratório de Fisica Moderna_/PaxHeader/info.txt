@@ -1,3 +1,0 @@
-63 path=result/107808-Laboratório de Fisica Moderna /info.txt
-26 mtime=1506572294.51254
-27 atime=1506596764.969893

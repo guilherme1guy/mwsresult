@@ -1,3 +1,0 @@
-63 path=result/201235-Epidemiologia Gestao em Saúde /info.txt
-27 mtime=1506572822.484288
-26 atime=1506596766.72591

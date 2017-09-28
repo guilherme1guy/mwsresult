@@ -1,3 +1,0 @@
-64 path=result/114979-Tópicos em Quimica Inorgânica /info.txt
-27 mtime=1506572533.389259
-27 atime=1506596781.514051

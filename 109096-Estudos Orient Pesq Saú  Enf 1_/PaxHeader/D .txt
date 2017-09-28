@@ -1,3 +1,0 @@
-62 path=result/109096-Estudos Orient Pesq Saú  Enf 1 /D .txt
-27 mtime=1506569932.982158
-27 atime=1506596776.318001

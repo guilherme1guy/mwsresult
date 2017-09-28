@@ -1,3 +1,0 @@
-58 path=result/195839-Fundamentos Qui Inorgânica /B .txt
-27 mtime=1506572655.910658
-27 atime=1506596765.869902

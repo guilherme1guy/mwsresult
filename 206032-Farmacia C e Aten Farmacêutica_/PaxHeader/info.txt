@@ -1,3 +1,0 @@
-64 path=result/206032-Farmacia C e Aten Farmacêutica /info.txt
-27 mtime=1506572842.986993
-27 atime=1506596774.677986

@@ -1,3 +1,0 @@
-61 path=result/194921-Tóp Esp em Psic da Educacao /info.txt
-27 mtime=1506571349.408574
-27 atime=1506596786.402098

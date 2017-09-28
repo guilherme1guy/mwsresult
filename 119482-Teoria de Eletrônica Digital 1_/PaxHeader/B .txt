@@ -1,3 +1,0 @@
-62 path=result/119482-Teoria de Eletrônica Digital 1 /B .txt
-26 mtime=1506573133.83313
-27 atime=1506596775.769996

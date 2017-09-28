@@ -1,3 +1,0 @@
-56 path=result/140082-Introducao à Linguistica /F .txt
-27 mtime=1506570601.624589
-27 atime=1506596770.117942

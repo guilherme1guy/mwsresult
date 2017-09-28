@@ -1,3 +1,0 @@
-61 path=result/179361-Economia Gest E Farmacêuticas /C .txt
-27 mtime=1506571664.756602
-27 atime=1506596764.521889

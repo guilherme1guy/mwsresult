@@ -1,3 +1,0 @@
-63 path=result/206849-Estagio Sup Ens Ciência Nat 2 /info.txt
-27 mtime=1506572636.326019
-27 atime=1506596774.953988

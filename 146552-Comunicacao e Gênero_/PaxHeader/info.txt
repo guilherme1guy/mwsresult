@@ -1,3 +1,0 @@
-54 path=result/146552-Comunicacao e Gênero /info.txt
-26 mtime=1506569671.78336
-27 atime=1506596767.637919

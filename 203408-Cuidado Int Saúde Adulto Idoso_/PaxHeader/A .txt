@@ -1,3 +1,0 @@
-62 path=result/203408-Cuidado Int Saúde Adulto Idoso /A .txt
-27 mtime=1506572815.072797
-27 atime=1506596788.598119

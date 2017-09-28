@@ -1,3 +1,0 @@
-60 path=result/204579-Gerenciamento Servicos Saúde /A .txt
-27 mtime=1506569936.567005
-27 atime=1506596762.973874

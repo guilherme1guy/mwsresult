@@ -1,3 +1,0 @@
-61 path=result/207896-Metodologia C A às C Agrarias /A .txt
-27 mtime=1506571535.832625
-27 atime=1506596772.613966

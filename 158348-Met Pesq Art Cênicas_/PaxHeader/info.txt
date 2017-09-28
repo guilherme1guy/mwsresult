@@ -1,3 +1,0 @@
-54 path=result/158348-Met Pesq Art Cênicas /info.txt
-27 mtime=1506569586.645306
-27 atime=1506596762.149866

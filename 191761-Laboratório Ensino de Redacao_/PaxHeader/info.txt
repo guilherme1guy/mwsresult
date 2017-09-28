@@ -1,3 +1,0 @@
-63 path=result/191761-Laboratório Ensino de Redacao /info.txt
-27 mtime=1506572450.651362
-27 atime=1506596787.758111

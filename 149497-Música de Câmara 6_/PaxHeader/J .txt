@@ -1,3 +1,0 @@
-51 path=result/149497-Música de Câmara 6 /J .txt
-27 mtime=1506570853.946317
-27 atime=1506596764.305887

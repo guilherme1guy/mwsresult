@@ -1,3 +1,0 @@
-57 path=result/108481-Mecânica do Vôo Espacial /A .txt
-26 mtime=1506573064.38099
-27 atime=1506596766.501908

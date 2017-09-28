@@ -1,3 +1,0 @@
-62 path=result/112330-Laboratório de Eletrônica 2 /info.txt
-27 mtime=1506570103.525929
-27 atime=1506596783.186067

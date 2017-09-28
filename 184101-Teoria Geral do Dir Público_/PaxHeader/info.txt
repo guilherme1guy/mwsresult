@@ -1,3 +1,0 @@
-61 path=result/184101-Teoria Geral do Dir Público /info.txt
-26 mtime=1506571807.28235
-27 atime=1506596779.714034

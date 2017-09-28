@@ -1,3 +1,0 @@
-54 path=result/204587-Clinica Odontológica 4 /A .txt
-27 mtime=1506571005.709837
-27 atime=1506596771.489955

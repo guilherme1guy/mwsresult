@@ -1,3 +1,0 @@
-53 path=result/145971-Inglês Instrumental 1 /I .txt
-27 mtime=1506570472.569293
-26 atime=1506596777.26601

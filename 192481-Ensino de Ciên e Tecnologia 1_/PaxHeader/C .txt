@@ -1,3 +1,0 @@
-61 path=result/192481-Ensino de Ciên e Tecnologia 1 /C .txt
-27 mtime=1506570689.059667
-27 atime=1506596763.165876

@@ -1,3 +1,0 @@
-54 path=result/179981-Comunicacao em Saúde /info.txt
-27 mtime=1506571171.930639
-27 atime=1506596770.777949

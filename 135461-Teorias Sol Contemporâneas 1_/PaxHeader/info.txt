@@ -1,3 +1,0 @@
-62 path=result/135461-Teorias Sol Contemporâneas 1 /info.txt
-27 mtime=1506571304.980824
-27 atime=1506596770.617947

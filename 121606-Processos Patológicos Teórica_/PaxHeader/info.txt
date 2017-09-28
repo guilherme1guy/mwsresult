@@ -1,3 +1,0 @@
-64 path=result/121606-Processos Patológicos Teórica /info.txt
-26 mtime=1506572036.04838
-27 atime=1506596773.461974

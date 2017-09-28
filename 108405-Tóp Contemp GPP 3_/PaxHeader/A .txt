@@ -1,3 +1,0 @@
-49 path=result/108405-Tóp Contemp GPP 3 /A .txt
-26 mtime=1506570384.46805
-27 atime=1506596763.545879

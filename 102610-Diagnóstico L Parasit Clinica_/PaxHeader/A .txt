@@ -1,3 +1,0 @@
-61 path=result/102610-Diagnóstico L Parasit Clinica /A .txt
-27 mtime=1506571663.892608
-27 atime=1506596764.529889

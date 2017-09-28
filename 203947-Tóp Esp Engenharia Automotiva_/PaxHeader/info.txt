@@ -1,3 +1,0 @@
-63 path=result/203947-Tóp Esp Engenharia Automotiva /info.txt
-27 mtime=1506573141.329183
-27 atime=1506596788.026113

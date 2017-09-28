@@ -1,3 +1,0 @@
-51 path=result/191787-Teoria Pedagógica 4 /A .txt
-27 mtime=1506572778.871635
-27 atime=1506596781.230048

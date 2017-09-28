@@ -1,3 +1,0 @@
-56 path=result/105953-Laboratório Quimica An 1 /A .txt
-27 mtime=1506572502.315034
-27 atime=1506596781.558051

@@ -1,3 +1,0 @@
-60 path=result/201448-Introducao a Prat Filosófica /B .txt
-27 mtime=1506570294.437892
-27 atime=1506596762.493869

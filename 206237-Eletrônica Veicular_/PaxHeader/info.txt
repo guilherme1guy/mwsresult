@@ -1,3 +1,0 @@
-53 path=result/206237-Eletrônica Veicular /info.txt
-26 mtime=1506573018.39331
-27 atime=1506596782.178057

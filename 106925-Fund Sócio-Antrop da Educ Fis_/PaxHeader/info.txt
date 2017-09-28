@@ -1,3 +1,0 @@
-63 path=result/106925-Fund Sócio-Antrop da Educ Fis /info.txt
-27 mtime=1506571913.010207
-27 atime=1506596779.554032

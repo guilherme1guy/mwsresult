@@ -1,3 +1,0 @@
-57 path=result/127311-Educacao Fisica e Saúde /info.txt
-27 mtime=1506571870.556461
-27 atime=1506596774.273982

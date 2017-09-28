@@ -1,3 +1,0 @@
-51 path=result/150436-Ópera - Estudio 4 /info.txt
-27 mtime=1506570865.935343
-27 atime=1506596785.466089

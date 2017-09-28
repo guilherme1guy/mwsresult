@@ -1,3 +1,0 @@
-55 path=result/107611-Tópicos em Bioquimica 1 /C .txt
-27 mtime=1506571451.737523
-27 atime=1506596778.786025

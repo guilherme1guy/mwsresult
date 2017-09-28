@@ -1,3 +1,0 @@
-61 path=result/197874-Introducao à Teoria Literaria /A .txt
-27 mtime=1506572447.959172
-27 atime=1506596787.762111

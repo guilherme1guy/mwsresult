@@ -1,3 +1,0 @@
-64 path=result/101648-Controle Quali Microbioológico /info.txt
-27 mtime=1506571661.956622
-27 atime=1506596772.173962

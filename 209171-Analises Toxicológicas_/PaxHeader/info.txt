@@ -1,3 +1,0 @@
-56 path=result/209171-Analises Toxicológicas /info.txt
-27 mtime=1506572800.973832
-26 atime=1506596766.74191

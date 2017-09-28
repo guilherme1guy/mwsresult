@@ -1,3 +1,0 @@
-54 path=result/107832-Mecânica Quântica A /info.txt
-27 mtime=1506572306.117326
-27 atime=1506596764.969893

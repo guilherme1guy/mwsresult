@@ -1,3 +1,0 @@
-64 path=result/180734-Deontologia e Leg Farmacêutica /info.txt
-27 mtime=1506572816.592691
-27 atime=1506596764.533889

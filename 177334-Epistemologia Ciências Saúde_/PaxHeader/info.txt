@@ -1,3 +1,0 @@
-63 path=result/177334-Epistemologia Ciências Saúde /info.txt
-27 mtime=1506571018.671527
-27 atime=1506596785.286087

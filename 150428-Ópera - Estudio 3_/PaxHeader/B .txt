@@ -1,3 +1,0 @@
-49 path=result/150428-Ópera - Estudio 3 /B .txt
-24 mtime=1506570865.059
-26 atime=1506596778.31802

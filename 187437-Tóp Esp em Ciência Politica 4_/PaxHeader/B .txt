@@ -1,3 +1,0 @@
-62 path=result/187437-Tóp Esp em Ciência Politica 4 /B .txt
-27 mtime=1506572156.427521
-27 atime=1506596780.710043

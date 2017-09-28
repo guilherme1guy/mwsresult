@@ -1,3 +1,0 @@
-63 path=result/104787-Mecânica Estrut Aeroespaciais /info.txt
-27 mtime=1506573062.116998
-27 atime=1506596766.501908

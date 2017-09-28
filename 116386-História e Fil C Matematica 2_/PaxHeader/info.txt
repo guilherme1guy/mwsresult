@@ -1,3 +1,0 @@
-63 path=result/116386-História e Fil C Matematica 2 /info.txt
-27 mtime=1506572678.431165
-27 atime=1506596787.506108

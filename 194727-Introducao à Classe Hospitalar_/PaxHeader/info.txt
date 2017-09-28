@@ -1,3 +1,0 @@
-64 path=result/194727-Introducao à Classe Hospitalar /info.txt
-26 mtime=1506571342.45998
-27 atime=1506596786.414098

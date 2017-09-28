@@ -1,3 +1,0 @@
-62 path=result/100510-Introducao à Comp A P Quimicos /A .txt
-27 mtime=1506572493.942437
-26 atime=1506596775.14599

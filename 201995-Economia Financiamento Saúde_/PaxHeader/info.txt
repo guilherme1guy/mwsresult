@@ -1,3 +1,0 @@
-62 path=result/201995-Economia Financiamento Saúde /info.txt
-27 mtime=1506572819.732474
-27 atime=1506596781.194048

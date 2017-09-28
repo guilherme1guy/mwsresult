@@ -1,3 +1,0 @@
-51 path=result/173037-Educacao em Saúde /info.txt
-26 mtime=1506571175.33487
-27 atime=1506596779.246029

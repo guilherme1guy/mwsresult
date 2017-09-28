@@ -1,3 +1,0 @@
-59 path=result/132021-História Econômica Geral /info.txt
-27 mtime=1506569910.566241
-27 atime=1506596761.321858

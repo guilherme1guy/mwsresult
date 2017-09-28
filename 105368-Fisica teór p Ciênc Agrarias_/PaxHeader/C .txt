@@ -1,3 +1,0 @@
-61 path=result/105368-Fisica teór p Ciênc Agrarias /C .txt
-27 mtime=1506572284.519866
-27 atime=1506596787.890112

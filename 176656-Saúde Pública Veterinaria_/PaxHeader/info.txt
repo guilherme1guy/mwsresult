@@ -1,3 +1,0 @@
-60 path=result/176656-Saúde Pública Veterinaria /info.txt
-27 mtime=1506571560.619292
-27 atime=1506596772.537965

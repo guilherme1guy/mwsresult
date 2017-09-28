@@ -1,3 +1,0 @@
-61 path=result/193810-Estagio C s 4 Gestao Docência /A .txt
-27 mtime=1506572631.922819
-27 atime=1506596765.885902

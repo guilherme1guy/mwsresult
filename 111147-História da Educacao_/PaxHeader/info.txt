@@ -1,3 +1,0 @@
-54 path=result/111147-História da Educacao /info.txt
-27 mtime=1506572675.391614
-27 atime=1506596781.338049

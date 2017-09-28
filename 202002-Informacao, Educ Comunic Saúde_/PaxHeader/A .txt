@@ -1,3 +1,0 @@
-62 path=result/202002-Informacao, Educ Comunic Saúde /A .txt
-27 mtime=1506572884.596841
-27 atime=1506596788.534118

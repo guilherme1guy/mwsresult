@@ -1,3 +1,0 @@
-57 path=result/117528-Intro à Eng de Computacao /A .txt
-27 mtime=1506569791.888901
-27 atime=1506596783.666071

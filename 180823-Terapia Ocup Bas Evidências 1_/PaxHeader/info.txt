@@ -1,3 +1,0 @@
-63 path=result/180823-Terapia Ocup Bas Evidências 1 /info.txt
-27 mtime=1506572954.866433
-27 atime=1506596788.458117

@@ -1,3 +1,0 @@
-56 path=result/193801-Praticas Pedagógicas 8 /info.txt
-27 mtime=1506572748.230532
-27 atime=1506596774.869988

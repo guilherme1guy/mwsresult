@@ -1,3 +1,0 @@
-58 path=result/147907-Laboratório de Gramatica /info.txt
-27 mtime=1506570606.288012
-27 atime=1506596770.113942

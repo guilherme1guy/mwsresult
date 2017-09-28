@@ -1,3 +1,0 @@
-62 path=result/199419-Cultura Poder e Relacões Racia /A .txt
-27 mtime=1506569469.347982
-27 atime=1506596762.361868

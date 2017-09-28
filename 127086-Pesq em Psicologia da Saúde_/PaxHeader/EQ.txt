@@ -1,3 +1,0 @@
-59 path=result/127086-Pesq em Psicologia da Saúde /EQ.txt
-25 mtime=1506571135.0883
-25 atime=1506596786.6501

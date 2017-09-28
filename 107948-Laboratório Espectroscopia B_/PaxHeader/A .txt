@@ -1,3 +1,0 @@
-60 path=result/107948-Laboratório Espectroscopia B /A .txt
-27 mtime=1506572294.156516
-27 atime=1506596764.969893

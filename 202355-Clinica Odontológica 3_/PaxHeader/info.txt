@@ -1,3 +1,0 @@
-56 path=result/202355-Clinica Odontológica 3 /info.txt
-27 mtime=1506571004.321651
-27 atime=1506596779.514032

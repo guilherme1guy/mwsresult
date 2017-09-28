@@ -1,3 +1,0 @@
-58 path=result/158135-Laboratório Orquestral 1 /info.txt
-27 mtime=1506570845.398257
-26 atime=1506596769.88594

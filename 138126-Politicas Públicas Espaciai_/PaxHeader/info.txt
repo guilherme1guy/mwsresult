@@ -1,3 +1,0 @@
-61 path=result/138126-Politicas Públicas Espaciai /info.txt
-27 mtime=1506570352.383072
-27 atime=1506596768.097923

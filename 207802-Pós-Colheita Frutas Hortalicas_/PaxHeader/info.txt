@@ -1,3 +1,0 @@
-64 path=result/207802-Pós-Colheita Frutas Hortalicas /info.txt
-27 mtime=1506571553.799628
-27 atime=1506596785.862092

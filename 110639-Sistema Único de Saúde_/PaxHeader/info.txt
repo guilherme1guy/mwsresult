@@ -1,3 +1,0 @@
-57 path=result/110639-Sistema Único de Saúde /info.txt
-27 mtime=1506572042.844759
-27 atime=1506596773.453974

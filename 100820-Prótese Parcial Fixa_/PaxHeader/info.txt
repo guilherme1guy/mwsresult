@@ -1,3 +1,0 @@
-54 path=result/100820-Prótese Parcial Fixa /info.txt
-27 mtime=1506571034.064033
-27 atime=1506596764.117885

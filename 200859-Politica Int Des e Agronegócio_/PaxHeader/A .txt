@@ -1,3 +1,0 @@
-62 path=result/200859-Politica Int Des e Agronegócio /A .txt
-27 mtime=1506572740.231371
-27 atime=1506596774.873988

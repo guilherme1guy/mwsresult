@@ -1,3 +1,0 @@
-51 path=result/196282-Sistemas Ecológicos /A .txt
-27 mtime=1506572769.008515
-27 atime=1506596788.638119

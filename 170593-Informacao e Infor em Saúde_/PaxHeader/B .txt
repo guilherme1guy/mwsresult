@@ -1,3 +1,0 @@
-59 path=result/170593-Informacao e Infor em Saúde /B .txt
-27 mtime=1506571191.415987
-27 atime=1506596786.570099

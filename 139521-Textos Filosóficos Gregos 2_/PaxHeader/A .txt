@@ -1,3 +1,0 @@
-59 path=result/139521-Textos Filosóficos Gregos 2 /A .txt
-27 mtime=1506570302.110396
-27 atime=1506596762.441869

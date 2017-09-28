@@ -1,3 +1,0 @@
-62 path=result/200824-Estado, Gov Politicas Públicas /A .txt
-26 mtime=1506572107.54452
-27 atime=1506596773.397974

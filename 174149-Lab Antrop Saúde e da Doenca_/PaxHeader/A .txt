@@ -1,3 +1,0 @@
-60 path=result/174149-Lab Antrop Saúde e da Doenca /A .txt
-27 mtime=1506571193.064104
-27 atime=1506596763.845882

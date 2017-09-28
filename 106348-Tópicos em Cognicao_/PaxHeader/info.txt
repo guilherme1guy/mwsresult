@@ -1,3 +1,0 @@
-53 path=result/106348-Tópicos em Cognicao /info.txt
-27 mtime=1506571070.685112
-27 atime=1506596785.190086

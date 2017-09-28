@@ -1,3 +1,0 @@
-62 path=result/115614-Introducao à Economia Politica /A .txt
-27 mtime=1506569912.490458
-27 atime=1506596761.293858

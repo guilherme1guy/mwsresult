@@ -1,3 +1,0 @@
-61 path=result/136069-Proj de Monografia Filosófica /A .txt
-26 mtime=1506570299.50207
-27 atime=1506596762.473869

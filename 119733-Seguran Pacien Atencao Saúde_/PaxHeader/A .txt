@@ -1,3 +1,0 @@
-60 path=result/119733-Seguran Pacien Atencao Saúde /A .txt
-27 mtime=1506572936.478932
-27 atime=1506596775.925998

@@ -1,3 +1,0 @@
-63 path=result/168823-Introd à Ciência dos Materiais /C .txt
-27 mtime=1506570176.712106
-27 atime=1506596768.537927

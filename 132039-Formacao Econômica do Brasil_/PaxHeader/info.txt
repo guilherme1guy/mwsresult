@@ -1,3 +1,0 @@
-62 path=result/132039-Formacao Econômica do Brasil /info.txt
-26 mtime=1506569909.36212
-27 atime=1506596766.933912

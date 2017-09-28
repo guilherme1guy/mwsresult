@@ -1,3 +1,0 @@
-61 path=result/196100-Matematica para Agronegócio /info.txt
-26 mtime=1506572698.29239
-27 atime=1506596781.314049

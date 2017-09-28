@@ -1,3 +1,0 @@
-61 path=result/115347-Recursos T F 1º Ciclo de Vida /A .txt
-27 mtime=1506572929.119156
-27 atime=1506596782.250058

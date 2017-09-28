@@ -1,3 +1,0 @@
-60 path=result/126861-Est Sup Psi Area Psi Saúde 3 /EQ.txt
-27 mtime=1506571123.043605
-27 atime=1506596786.754101

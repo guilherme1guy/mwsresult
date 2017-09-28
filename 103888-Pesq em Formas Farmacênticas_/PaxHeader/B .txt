@@ -1,3 +1,0 @@
-60 path=result/103888-Pesq em Formas Farmacênticas /B .txt
-27 mtime=1506572917.367545
-27 atime=1506596788.490117

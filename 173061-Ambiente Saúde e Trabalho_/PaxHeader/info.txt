@@ -1,3 +1,0 @@
-59 path=result/173061-Ambiente Saúde e Trabalho /info.txt
-27 mtime=1506571169.306463
-27 atime=1506596763.877883

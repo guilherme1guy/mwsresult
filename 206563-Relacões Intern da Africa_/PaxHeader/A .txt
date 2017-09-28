@@ -1,3 +1,0 @@
-57 path=result/206563-Relacões Intern da Africa /A .txt
-26 mtime=1506572561.74604
-27 atime=1506596765.969903

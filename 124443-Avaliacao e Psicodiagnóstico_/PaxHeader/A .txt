@@ -1,3 +1,0 @@
-60 path=result/124443-Avaliacao e Psicodiagnóstico /A .txt
-27 mtime=1506571115.807207
-27 atime=1506596770.877949

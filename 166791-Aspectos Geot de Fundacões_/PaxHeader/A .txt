@@ -1,3 +1,0 @@
-58 path=result/166791-Aspectos Geot de Fundacões /A .txt
-23 mtime=1506569955.16
-27 atime=1506596783.406069

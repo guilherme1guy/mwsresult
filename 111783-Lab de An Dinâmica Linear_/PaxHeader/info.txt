@@ -1,3 +1,0 @@
-59 path=result/111783-Lab de An Dinâmica Linear /info.txt
-27 mtime=1506570094.812744
-27 atime=1506596783.202067

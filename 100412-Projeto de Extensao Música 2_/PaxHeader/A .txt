@@ -1,3 +1,0 @@
-60 path=result/100412-Projeto de Extensao Música 2 /A .txt
-27 mtime=1506570897.837824
-27 atime=1506596764.277886

@@ -1,3 +1,0 @@
-61 path=result/158402-Diplomacao em Artes Cênicas 1 /E .txt
-27 mtime=1506569577.149523
-27 atime=1506596762.169866

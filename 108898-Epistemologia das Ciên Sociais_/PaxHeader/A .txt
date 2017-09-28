@@ -1,3 +1,0 @@
-62 path=result/108898-Epistemologia das Ciên Sociais /A .txt
-26 mtime=1506571271.82211
-27 atime=1506596786.502099

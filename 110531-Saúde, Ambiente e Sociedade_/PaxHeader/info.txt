@@ -1,3 +1,0 @@
-61 path=result/110531-Saúde, Ambiente e Sociedade /info.txt
-27 mtime=1506572040.268615
-27 atime=1506596773.453974

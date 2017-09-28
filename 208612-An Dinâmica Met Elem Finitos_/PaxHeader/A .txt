@@ -1,3 +1,0 @@
-60 path=result/208612-An Dinâmica Met Elem Finitos /A .txt
-27 mtime=1506572998.385571
-27 atime=1506596782.186057

@@ -1,3 +1,0 @@
-63 path=result/115134-Fonoaudiologia 1º Ciclo  Vida /info.txt
-27 mtime=1506572866.725692
-27 atime=1506596774.573985

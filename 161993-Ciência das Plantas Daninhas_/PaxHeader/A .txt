@@ -1,3 +1,0 @@
-60 path=result/161993-Ciência das Plantas Daninhas /A .txt
-27 mtime=1506571488.144772
-27 atime=1506596764.761891

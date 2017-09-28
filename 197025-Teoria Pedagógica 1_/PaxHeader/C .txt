@@ -1,3 +1,0 @@
-51 path=result/197025-Teoria Pedagógica 1 /C .txt
-27 mtime=1506572776.355855
-26 atime=1506596766.77391

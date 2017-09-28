@@ -1,3 +1,0 @@
-64 path=result/208078-Ciência e P em Educacao Fisica /info.txt
-27 mtime=1506571860.184072
-27 atime=1506596765.641899

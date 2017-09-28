@@ -1,3 +1,0 @@
-62 path=result/203203-Praticas d Educacao Ciências 1 /C .txt
-27 mtime=1506571449.125291
-27 atime=1506596764.805892

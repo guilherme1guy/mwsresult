@@ -1,3 +1,0 @@
-48 path=result/107441-Mecânica do Vôo /A .txt
-27 mtime=1506573063.452993
-27 atime=1506596788.346116

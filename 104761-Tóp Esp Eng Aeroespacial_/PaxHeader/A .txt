@@ -1,3 +1,0 @@
-56 path=result/104761-Tóp Esp Eng Aeroespacial /A .txt
-27 mtime=1506573140.269175
-27 atime=1506596788.026113

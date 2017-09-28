@@ -1,3 +1,0 @@
-62 path=result/102814-Relacões Soc, Fam e Ser Social /A .txt
-27 mtime=1506571257.108935
-27 atime=1506596770.673948

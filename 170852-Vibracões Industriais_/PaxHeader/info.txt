@@ -1,3 +1,0 @@
-55 path=result/170852-Vibracões Industriais /info.txt
-26 mtime=1506570211.13623
-27 atime=1506596768.313925

@@ -1,3 +1,0 @@
-62 path=result/124893-Tópicos em Psicologia Social /info.txt
-27 mtime=1506571167.174321
-27 atime=1506596770.789949

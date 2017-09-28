@@ -1,3 +1,0 @@
-61 path=result/126977-Est Sup Bac-Area Psi da Saúde /AC.txt
-27 mtime=1506571117.731312
-27 atime=1506596786.810101

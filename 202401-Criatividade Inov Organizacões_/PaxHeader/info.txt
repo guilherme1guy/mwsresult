@@ -1,3 +1,0 @@
-64 path=result/202401-Criatividade Inov Organizacões /info.txt
-27 mtime=1506569531.610562
-27 atime=1506596766.317906

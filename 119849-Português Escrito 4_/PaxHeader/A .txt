@@ -1,3 +1,0 @@
-51 path=result/119849-Português Escrito 4 /A .txt
-26 mtime=1506570609.37164
-27 atime=1506596785.778092

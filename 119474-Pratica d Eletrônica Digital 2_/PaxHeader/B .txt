@@ -1,3 +1,0 @@
-62 path=result/119474-Pratica d Eletrônica Digital 2 /B .txt
-26 mtime=1506573086.03696
-27 atime=1506596782.130057

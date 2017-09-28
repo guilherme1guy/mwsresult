@@ -1,3 +1,0 @@
-64 path=result/109720-Praticas Pedagógicas em Filoso /info.txt
-27 mtime=1506570298.395698
-27 atime=1506596768.225924

@@ -1,3 +1,0 @@
-58 path=result/196517-Compostos Orgânicos e Vida /A .txt
-27 mtime=1506572600.908945
-27 atime=1506596787.590109

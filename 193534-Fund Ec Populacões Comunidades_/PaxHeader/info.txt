@@ -1,3 +1,0 @@
-64 path=result/193534-Fund Ec Populacões Comunidades /info.txt
-27 mtime=1506572655.486727
-27 atime=1506596781.362049

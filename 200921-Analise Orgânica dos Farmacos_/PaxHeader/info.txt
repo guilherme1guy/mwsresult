@@ -1,3 +1,0 @@
-63 path=result/200921-Analise Orgânica dos Farmacos /info.txt
-27 mtime=1506572474.161029
-26 atime=1506596775.17399

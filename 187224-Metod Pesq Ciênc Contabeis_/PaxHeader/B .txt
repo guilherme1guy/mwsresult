@@ -1,3 +1,0 @@
-58 path=result/187224-Metod Pesq Ciênc Contabeis /B .txt
-27 mtime=1506571412.390043
-27 atime=1506596773.137971

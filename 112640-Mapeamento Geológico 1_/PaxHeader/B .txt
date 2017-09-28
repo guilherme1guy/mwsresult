@@ -1,3 +1,0 @@
-54 path=result/112640-Mapeamento Geológico 1 /B .txt
-27 mtime=1506572383.034616
-27 atime=1506596773.185971

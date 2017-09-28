@@ -1,3 +1,0 @@
-56 path=result/126683-Pesq Psi Clin Saú Mental /IM.txt
-27 mtime=1506571134.128243
-27 atime=1506596763.917883

@@ -1,3 +1,0 @@
-52 path=result/113115-Teoria dos Números 1 /B .txt
-27 mtime=1506570675.312885
-27 atime=1506596770.077942

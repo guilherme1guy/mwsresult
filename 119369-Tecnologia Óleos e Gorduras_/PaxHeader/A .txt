@@ -1,3 +1,0 @@
-59 path=result/119369-Tecnologia Óleos e Gorduras /A .txt
-27 mtime=1506572530.017017
-26 atime=1506596775.08199

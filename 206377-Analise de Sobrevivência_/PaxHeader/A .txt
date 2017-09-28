@@ -1,3 +1,0 @@
-56 path=result/206377-Analise de Sobrevivência /A .txt
-26 mtime=1506570212.90466
-27 atime=1506596784.954084

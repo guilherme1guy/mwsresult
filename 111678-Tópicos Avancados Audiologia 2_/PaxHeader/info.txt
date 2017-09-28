@@ -1,3 +1,0 @@
-64 path=result/111678-Tópicos Avancados Audiologia 2 /info.txt
-27 mtime=1506572973.390014
-27 atime=1506596775.901997

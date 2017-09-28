@@ -1,3 +1,0 @@
-63 path=result/196665-Sist Informacao e Agronegócio /info.txt
-27 mtime=1506572766.380757
-27 atime=1506596788.642119

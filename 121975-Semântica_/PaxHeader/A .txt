@@ -1,3 +1,0 @@
-41 path=result/121975-Semântica /A .txt
-27 mtime=1506572760.769287
-26 atime=1506596766.77791

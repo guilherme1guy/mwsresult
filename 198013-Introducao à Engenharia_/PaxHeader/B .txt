@@ -1,3 +1,0 @@
-55 path=result/198013-Introducao à Engenharia /B .txt
-27 mtime=1506573050.725047
-27 atime=1506596775.841997

@@ -1,3 +1,0 @@
-62 path=result/202771-Gestao Est Part C Social Saúde /A .txt
-27 mtime=1506571191.027959
-27 atime=1506596770.737948

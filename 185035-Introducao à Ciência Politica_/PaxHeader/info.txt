@@ -1,3 +1,0 @@
-64 path=result/185035-Introducao à Ciência Politica /info.txt
-27 mtime=1506572117.301109
-27 atime=1506596780.790044

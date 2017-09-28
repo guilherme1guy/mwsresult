@@ -1,3 +1,0 @@
-60 path=result/206547-Epidemiologia Aplicada à EDF /A .txt
-27 mtime=1506571878.192758
-27 atime=1506596765.581899

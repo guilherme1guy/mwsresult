@@ -1,3 +1,0 @@
-60 path=result/201979-Estagio Sup Saúde Coletiva 1 /B .txt
-26 mtime=1506572835.28346
-27 atime=1506596781.166048

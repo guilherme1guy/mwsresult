@@ -1,3 +1,0 @@
-63 path=result/114171-Elementos Operacões Unitarias /info.txt
-27 mtime=1506572480.465477
-26 atime=1506596787.70211

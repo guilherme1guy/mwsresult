@@ -1,3 +1,0 @@
-61 path=result/134074-Introd Metod Ciências Sociais /E .txt
-27 mtime=1506570258.688178
-27 atime=1506596777.562013

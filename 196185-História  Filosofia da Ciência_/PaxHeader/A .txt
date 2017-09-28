@@ -1,3 +1,0 @@
-63 path=result/196185-História  Filosofia da Ciência /A .txt
-27 mtime=1506572675.839548
-27 atime=1506596774.925988

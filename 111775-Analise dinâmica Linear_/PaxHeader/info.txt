@@ -1,3 +1,0 @@
-57 path=result/111775-Analise dinâmica Linear /info.txt
-27 mtime=1506570069.470333
-27 atime=1506596783.234067

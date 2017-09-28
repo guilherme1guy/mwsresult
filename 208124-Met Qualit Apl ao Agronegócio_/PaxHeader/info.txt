@@ -1,3 +1,0 @@
-63 path=result/208124-Met Qualit Apl ao Agronegócio /info.txt
-27 mtime=1506571537.480527
-26 atime=1506596764.64189

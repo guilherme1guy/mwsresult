@@ -1,3 +1,0 @@
-54 path=result/137553-Introducao à Filosofia /H .txt
-27 mtime=1506570292.796642
-27 atime=1506596768.233924

@@ -1,3 +1,0 @@
-60 path=result/107689-Tóp Esp Biblioteconomia e CI /B .txt
-27 mtime=1506571650.544731
-27 atime=1506596764.553889

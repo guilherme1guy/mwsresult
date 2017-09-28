@@ -1,3 +1,0 @@
-63 path=result/198137-Fundamentos Fisiológicos  Edf /info.txt
-27 mtime=1506571908.686019
-27 atime=1506596765.529898

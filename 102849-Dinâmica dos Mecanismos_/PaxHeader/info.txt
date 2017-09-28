@@ -1,3 +1,0 @@
-57 path=result/102849-Dinâmica dos Mecanismos /info.txt
-27 mtime=1506573017.217323
-27 atime=1506596788.414117

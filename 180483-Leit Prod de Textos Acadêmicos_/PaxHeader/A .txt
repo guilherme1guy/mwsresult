@@ -1,3 +1,0 @@
-62 path=result/180483-Leit Prod de Textos Acadêmicos /A .txt
-27 mtime=1506572895.728364
-27 atime=1506596766.645909

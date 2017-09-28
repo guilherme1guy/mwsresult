@@ -1,3 +1,0 @@
-64 path=result/208027-Trabalho Saúd C Agroindustrial /info.txt
-27 mtime=1506571574.858659
-27 atime=1506596780.014037

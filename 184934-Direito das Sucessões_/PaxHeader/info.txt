@@ -1,3 +1,0 @@
-55 path=result/184934-Direito das Sucessões /info.txt
-27 mtime=1506571761.725273
-27 atime=1506596779.762034

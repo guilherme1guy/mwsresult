@@ -1,3 +1,0 @@
-62 path=result/126021-Microorganismos Fitopatogênico /C .txt
-27 mtime=1506570311.007403
-27 atime=1506596777.494013

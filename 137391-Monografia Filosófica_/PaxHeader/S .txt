@@ -1,3 +1,0 @@
-53 path=result/137391-Monografia Filosófica /S .txt
-27 mtime=1506570297.592907
-27 atime=1506596762.473869

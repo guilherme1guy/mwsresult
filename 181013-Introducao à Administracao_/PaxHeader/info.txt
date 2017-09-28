@@ -1,3 +1,0 @@
-60 path=result/181013-Introducao à Administracao /info.txt
-27 mtime=1506572680.674838
-27 atime=1506596766.293906

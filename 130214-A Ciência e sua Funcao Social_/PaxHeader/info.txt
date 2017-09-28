@@ -1,3 +1,0 @@
-63 path=result/130214-A Ciência e sua Funcao Social /info.txt
-27 mtime=1506571428.247441
-27 atime=1506596778.822025

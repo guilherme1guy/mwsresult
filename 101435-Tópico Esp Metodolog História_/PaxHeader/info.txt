@@ -1,3 +1,0 @@
-64 path=result/101435-Tópico Esp Metodolog História /info.txt
-27 mtime=1506570413.748788
-27 atime=1506596777.318011

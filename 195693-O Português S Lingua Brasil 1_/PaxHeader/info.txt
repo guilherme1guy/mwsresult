@@ -1,3 +1,0 @@
-63 path=result/195693-O Português S Lingua Brasil 1 /info.txt
-27 mtime=1506572462.132175
-26 atime=1506596787.75011

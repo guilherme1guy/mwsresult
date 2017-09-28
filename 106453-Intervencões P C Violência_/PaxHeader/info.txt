@@ -1,3 +1,0 @@
-61 path=result/106453-Intervencões P C Violência /info.txt
-27 mtime=1506571129.595978
-27 atime=1506596763.941883

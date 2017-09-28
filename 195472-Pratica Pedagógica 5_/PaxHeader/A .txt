@@ -1,3 +1,0 @@
-52 path=result/195472-Pratica Pedagógica 5 /A .txt
-26 mtime=1506572742.02318
-27 atime=1506596765.785901

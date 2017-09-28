@@ -1,3 +1,0 @@
-57 path=result/120243-Semiótica e Comunicacao /info.txt
-27 mtime=1506571734.140836
-27 atime=1506596787.346107

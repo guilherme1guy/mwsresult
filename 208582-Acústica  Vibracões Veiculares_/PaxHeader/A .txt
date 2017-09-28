@@ -1,3 +1,0 @@
-63 path=result/208582-Acústica  Vibracões Veiculares /A .txt
-27 mtime=1506572996.173605
-27 atime=1506596782.186057

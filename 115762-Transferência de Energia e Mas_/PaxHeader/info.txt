@@ -1,3 +1,0 @@
-64 path=result/115762-Transferência de Energia e Mas /info.txt
-27 mtime=1506570023.772025
-27 atime=1506596762.857873

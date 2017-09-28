@@ -1,3 +1,0 @@
-55 path=result/201065-Administracao Pública /info.txt
-27 mtime=1506572569.072214
-27 atime=1506596765.961903

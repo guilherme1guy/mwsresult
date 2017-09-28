@@ -1,3 +1,0 @@
-50 path=result/157741-Ópera - Estúdio 1 /A .txt
-27 mtime=1506570863.206261
-26 atime=1506596778.32202

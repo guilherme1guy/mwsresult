@@ -1,3 +1,0 @@
-62 path=result/208604-Saúde Coletiva e Educ Fisica /info.txt
-27 mtime=1506571967.220748
-27 atime=1506596780.974046

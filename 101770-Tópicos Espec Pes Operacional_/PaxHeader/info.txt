@@ -1,3 +1,0 @@
-63 path=result/101770-Tópicos Espec Pes Operacional /info.txt
-26 mtime=1506570064.71009
-27 atime=1506596783.246067

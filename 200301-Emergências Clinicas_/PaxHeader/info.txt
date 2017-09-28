@@ -1,3 +1,0 @@
-54 path=result/200301-Emergências Clinicas /info.txt
-27 mtime=1506571990.445928
-27 atime=1506596780.914045

@@ -1,3 +1,0 @@
-44 path=result/117510-Regência 1 /info.txt
-27 mtime=1506570672.053181
-27 atime=1506596778.482022

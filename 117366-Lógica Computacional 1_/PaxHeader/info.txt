@@ -1,3 +1,0 @@
-56 path=result/117366-Lógica Computacional 1 /info.txt
-27 mtime=1506569795.541918
-27 atime=1506596767.233915

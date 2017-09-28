@@ -1,3 +1,0 @@
-63 path=result/207144-Desenv e Gestao P Agronegócio /info.txt
-27 mtime=1506571499.117755
-27 atime=1506596780.098037

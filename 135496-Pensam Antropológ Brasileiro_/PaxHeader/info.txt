@@ -1,3 +1,0 @@
-62 path=result/135496-Pensam Antropológ Brasileiro /info.txt
-27 mtime=1506569567.145751
-27 atime=1506596762.189867

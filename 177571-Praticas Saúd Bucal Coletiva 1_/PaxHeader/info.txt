@@ -1,3 +1,0 @@
-64 path=result/177571-Praticas Saúd Bucal Coletiva 1 /info.txt
-27 mtime=1506571031.431982
-27 atime=1506596785.274087
