@@ -1,0 +1,3 @@
+60 path=result/106810-Laboratório de Estatistica 1 /A .txt
+27 mtime=1506570226.199931
+27 atime=1506596768.273925

@@ -1,0 +1,3 @@
+59 path=result/110531-Saúde, Ambiente e Sociedade /B .txt
+27 mtime=1506572040.272615
+27 atime=1506596773.453974

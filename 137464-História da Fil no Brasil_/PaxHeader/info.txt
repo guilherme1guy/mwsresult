@@ -1,0 +1,3 @@
+59 path=result/137464-História da Fil no Brasil /info.txt
+27 mtime=1506570291.630669
+27 atime=1506596777.514013

@@ -1,0 +1,3 @@
+57 path=result/110230-Tóp Esp Tec Eng Quimica /info.txt
+27 mtime=1506572534.189317
+27 atime=1506596765.993903

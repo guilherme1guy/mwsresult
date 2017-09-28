@@ -1,0 +1,3 @@
+64 path=result/109681-Ergonomia Apl à Arq Interiores /info.txt
+27 mtime=1506571077.329373
+27 atime=1506596779.414031

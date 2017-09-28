@@ -1,0 +1,3 @@
+60 path=result/106054-Reacões Org e Mecanismos 2 /info.txt
+27 mtime=1506572526.464763
+26 atime=1506596775.08999

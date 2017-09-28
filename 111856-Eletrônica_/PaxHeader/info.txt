@@ -1,0 +1,3 @@
+44 path=result/111856-Eletrônica /info.txt
+27 mtime=1506570083.911498
+27 atime=1506596778.058018

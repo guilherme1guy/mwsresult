@@ -1,0 +1,3 @@
+64 path=result/107263-Memórias Gastronôm Gustativas /info.txt
+27 mtime=1506569494.627405
+27 atime=1506596766.345906

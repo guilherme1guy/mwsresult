@@ -1,0 +1,3 @@
+60 path=result/201944-Pensamento Social em Saúde /info.txt
+27 mtime=1506572904.404019
+27 atime=1506596775.993998

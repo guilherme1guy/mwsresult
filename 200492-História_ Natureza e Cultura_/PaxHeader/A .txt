@@ -1,0 +1,3 @@
+60 path=result/200492-História: Natureza e Cultura /A .txt
+27 mtime=1506570404.591947
+26 atime=1506596784.51808

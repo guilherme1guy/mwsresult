@@ -1,0 +1,3 @@
+64 path=result/109266-Tóp Avancados Terapia Manual 1 /info.txt
+27 mtime=1506572975.177977
+27 atime=1506596775.901997

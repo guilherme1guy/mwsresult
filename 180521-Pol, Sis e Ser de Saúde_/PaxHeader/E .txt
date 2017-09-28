@@ -1,0 +1,3 @@
+55 path=result/180521-Pol, Sis e Ser de Saúde /E .txt
+27 mtime=1506572918.491506
+27 atime=1506596766.625909

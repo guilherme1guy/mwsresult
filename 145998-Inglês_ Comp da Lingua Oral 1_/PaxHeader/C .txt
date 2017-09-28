@@ -1,0 +1,3 @@
+61 path=result/145998-Inglês: Comp da Lingua Oral 1 /C .txt
+27 mtime=1506570474.217433
+27 atime=1506596763.457879

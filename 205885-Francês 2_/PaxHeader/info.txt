@@ -1,0 +1,3 @@
+43 path=result/205885-Francês 2 /info.txt
+27 mtime=1506570467.824823
+27 atime=1506596770.225943

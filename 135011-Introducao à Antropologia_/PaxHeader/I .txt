@@ -1,0 +1,3 @@
+57 path=result/135011-Introducao à Antropologia /I .txt
+27 mtime=1506569564.845804
+27 atime=1506596781.930055

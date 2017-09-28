@@ -1,0 +1,3 @@
+63 path=result/208809-Politicas Públicas de Turismo /info.txt
+27 mtime=1506569555.054027
+27 atime=1506596781.954055

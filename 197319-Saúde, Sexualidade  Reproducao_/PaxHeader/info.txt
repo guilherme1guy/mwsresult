@@ -1,0 +1,3 @@
+64 path=result/197319-Saúde, Sexualidade  Reproducao /info.txt
+27 mtime=1506572759.877373
+27 atime=1506596788.650119

@@ -1,0 +1,3 @@
+59 path=result/177318-Tóp Av em Prom. da Saúde 1 /A .txt
+27 mtime=1506569943.700815
+27 atime=1506596762.961874

@@ -1,0 +1,3 @@
+55 path=result/134465-Introducao à Sociologia /L .txt
+27 mtime=1506571275.478405
+27 atime=1506596786.498098

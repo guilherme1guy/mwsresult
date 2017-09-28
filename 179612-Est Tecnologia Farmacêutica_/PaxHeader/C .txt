@@ -1,0 +1,3 @@
+59 path=result/179612-Est Tecnologia Farmacêutica /C .txt
+26 mtime=1506571677.86854
+27 atime=1506596764.509889

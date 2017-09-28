@@ -1,0 +1,3 @@
+63 path=result/187917-Mat Fin Apl às Cien Contabeis /info.txt
+27 mtime=1506571412.070015
+27 atime=1506596764.857892

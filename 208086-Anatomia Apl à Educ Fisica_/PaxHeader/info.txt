@@ -1,0 +1,3 @@
+60 path=result/208086-Anatomia Apl à Educ Fisica /info.txt
+27 mtime=1506571850.323717
+27 atime=1506596787.214105

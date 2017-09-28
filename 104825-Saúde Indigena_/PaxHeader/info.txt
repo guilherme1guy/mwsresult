@@ -1,0 +1,3 @@
+48 path=result/104825-Saúde Indigena /info.txt
+27 mtime=1506571200.480635
+27 atime=1506596779.174029

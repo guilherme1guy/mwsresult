@@ -1,0 +1,3 @@
+48 path=result/111171-Promocao e Saúde /A .txt
+27 mtime=1506572750.810269
+27 atime=1506596774.865988

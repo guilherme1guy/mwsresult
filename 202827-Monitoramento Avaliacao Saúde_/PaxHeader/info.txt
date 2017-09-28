@@ -1,0 +1,3 @@
+63 path=result/202827-Monitoramento Avaliacao Saúde /info.txt
+27 mtime=1506571193.368125
+27 atime=1506596786.570099

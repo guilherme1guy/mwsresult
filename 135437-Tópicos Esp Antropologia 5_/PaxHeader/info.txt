@@ -1,0 +1,3 @@
+60 path=result/135437-Tópicos Esp Antropologia 5 /info.txt
+27 mtime=1506569574.053593
+27 atime=1506596775.441993

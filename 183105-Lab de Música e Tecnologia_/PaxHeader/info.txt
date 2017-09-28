@@ -1,0 +1,3 @@
+60 path=result/183105-Lab de Música e Tecnologia /info.txt
+27 mtime=1506572079.682868
+27 atime=1506596780.806044

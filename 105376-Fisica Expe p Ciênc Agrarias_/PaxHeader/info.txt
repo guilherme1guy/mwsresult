@@ -1,0 +1,3 @@
+62 path=result/105376-Fisica Expe p Ciênc Agrarias /info.txt
+27 mtime=1506572273.567131
+27 atime=1506596764.997893

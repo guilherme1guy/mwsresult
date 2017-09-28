@@ -1,0 +1,3 @@
+61 path=result/103977-Diagnóst Lab Imunol Clinica /info.txt
+27 mtime=1506571663.052614
+27 atime=1506596787.442107

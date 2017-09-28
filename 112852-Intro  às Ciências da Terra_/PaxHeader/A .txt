@@ -1,0 +1,3 @@
+60 path=result/112852-Intro  às Ciências da Terra /A .txt
+27 mtime=1506572382.390571
+27 atime=1506596766.209905

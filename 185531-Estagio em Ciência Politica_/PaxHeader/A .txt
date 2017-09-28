@@ -1,0 +1,3 @@
+59 path=result/185531-Estagio em Ciência Politica /A .txt
+27 mtime=1506572109.740652
+27 atime=1506596773.397974

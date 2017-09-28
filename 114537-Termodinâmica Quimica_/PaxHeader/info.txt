@@ -1,0 +1,3 @@
+55 path=result/114537-Termodinâmica Quimica /info.txt
+27 mtime=1506572532.137169
+27 atime=1506596787.642109

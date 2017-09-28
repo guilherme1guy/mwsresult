@@ -1,0 +1,3 @@
+53 path=result/167410-Instalacões Eletricas /H .txt
+27 mtime=1506570090.088169
+27 atime=1506596778.034018

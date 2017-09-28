@@ -1,0 +1,3 @@
+62 path=result/107905-Termodinâmica e Fisica Estatis /B .txt
+25 mtime=1506572339.4276
+27 atime=1506596780.530042

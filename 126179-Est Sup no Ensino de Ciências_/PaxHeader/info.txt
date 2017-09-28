@@ -1,0 +1,3 @@
+63 path=result/126179-Est Sup no Ensino de Ciências /info.txt
+27 mtime=1506572206.538713
+27 atime=1506596765.037894

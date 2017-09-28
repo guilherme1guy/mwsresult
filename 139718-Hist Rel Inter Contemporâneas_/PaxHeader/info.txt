@@ -1,0 +1,3 @@
+63 path=result/139718-Hist Rel Inter Contemporâneas /info.txt
+27 mtime=1506572553.938736
+27 atime=1506596775.057989

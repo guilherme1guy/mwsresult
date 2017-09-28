@@ -1,0 +1,3 @@
+64 path=result/202266-Tópicos Con Est In Organizacao /info.txt
+27 mtime=1506569558.057959
+27 atime=1506596768.037922

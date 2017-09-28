@@ -1,0 +1,3 @@
+62 path=result/177407-Introducao à Pesq Cientifica /info.txt
+27 mtime=1506571022.087834
+27 atime=1506596771.481955

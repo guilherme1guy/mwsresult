@@ -1,0 +1,3 @@
+45 path=result/121959-Geociências /info.txt
+27 mtime=1506572658.426248
+27 atime=1506596781.362049

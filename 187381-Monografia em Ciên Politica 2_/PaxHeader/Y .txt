@@ -1,0 +1,3 @@
+61 path=result/187381-Monografia em Ciên Politica 2 /Y .txt
+27 mtime=1506572126.285656
+27 atime=1506596765.157895

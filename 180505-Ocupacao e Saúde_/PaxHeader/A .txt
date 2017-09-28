@@ -1,0 +1,3 @@
+48 path=result/180505-Ocupacao e Saúde /A .txt
+27 mtime=1506572901.100148
+27 atime=1506596766.637909

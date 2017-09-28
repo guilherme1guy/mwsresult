@@ -1,0 +1,3 @@
+64 path=result/182125-Gerência de Sist de Informacao /info.txt
+27 mtime=1506571607.317556
+27 atime=1506596787.474108

@@ -1,0 +1,3 @@
+62 path=result/116998-CEBEP 3: Raca, Gênero  Geracao /B .txt
+27 mtime=1506572591.283033
+26 atime=1506596781.44205

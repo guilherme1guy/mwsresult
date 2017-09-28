@@ -1,0 +1,3 @@
+59 path=result/139190-História Social e Pol Geral /B .txt
+27 mtime=1506570403.718956
+27 atime=1506596763.537879

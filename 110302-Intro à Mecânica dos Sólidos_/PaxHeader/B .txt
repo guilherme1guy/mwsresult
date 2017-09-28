@@ -1,0 +1,3 @@
+62 path=result/110302-Intro à Mecânica dos Sólidos /B .txt
+27 mtime=1506569981.904279
+27 atime=1506596783.338068

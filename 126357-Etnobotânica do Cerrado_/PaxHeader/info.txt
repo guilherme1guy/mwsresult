@@ -1,0 +1,3 @@
+57 path=result/126357-Etnobotânica do Cerrado /info.txt
+27 mtime=1506569765.905207
+27 atime=1506596776.786006

@@ -1,0 +1,3 @@
+62 path=result/135488-Teorias Sociológicas Marxistas /A .txt
+25 mtime=1506571305.8889
+27 atime=1506596786.486098

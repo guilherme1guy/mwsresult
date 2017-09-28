@@ -1,0 +1,3 @@
+52 path=result/106780-Inferência Bayesiana /A .txt
+27 mtime=1506570221.942878
+27 atime=1506596784.902083

@@ -1,0 +1,3 @@
+65 path=result/180882-Saúde Soc 3 Diver Social Saúde /info.txt
+27 mtime=1506572934.730984
+27 atime=1506596788.474117

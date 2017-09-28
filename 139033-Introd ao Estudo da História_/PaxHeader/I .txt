@@ -1,0 +1,3 @@
+60 path=result/139033-Introd ao Estudo da História /I .txt
+27 mtime=1506570405.681144
+27 atime=1506596784.506079

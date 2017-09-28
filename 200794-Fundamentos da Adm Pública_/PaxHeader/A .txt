@@ -1,0 +1,3 @@
+58 path=result/200794-Fundamentos da Adm Pública /A .txt
+26 mtime=1506570363.30926
+27 atime=1506596768.097923

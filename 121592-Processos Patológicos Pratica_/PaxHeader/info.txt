@@ -1,0 +1,3 @@
+63 path=result/121592-Processos Patológicos Pratica /info.txt
+27 mtime=1506572035.488349
+27 atime=1506596786.982103

@@ -1,0 +1,3 @@
+55 path=result/120405-Processos Patológicos /info.txt
+27 mtime=1506572923.059352
+27 atime=1506596775.949998

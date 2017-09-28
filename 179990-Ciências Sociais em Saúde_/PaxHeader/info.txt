@@ -1,0 +1,3 @@
+60 path=result/179990-Ciências Sociais em Saúde /info.txt
+27 mtime=1506571171.054581
+25 atime=1506596786.6061

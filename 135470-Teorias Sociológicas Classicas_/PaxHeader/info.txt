@@ -1,0 +1,3 @@
+64 path=result/135470-Teorias Sociológicas Classicas /info.txt
+27 mtime=1506571302.372608
+27 atime=1506596770.617947

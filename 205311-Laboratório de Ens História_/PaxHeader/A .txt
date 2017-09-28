@@ -1,0 +1,3 @@
+60 path=result/205311-Laboratório de Ens História /A .txt
+27 mtime=1506570406.550069
+27 atime=1506596784.502079

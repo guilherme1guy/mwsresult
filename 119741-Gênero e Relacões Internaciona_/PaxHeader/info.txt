@@ -1,0 +1,3 @@
+65 path=result/119741-Gênero e Relacões Internaciona /info.txt
+27 mtime=1506572551.406554
+27 atime=1506596775.057989

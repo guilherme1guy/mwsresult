@@ -1,0 +1,3 @@
+52 path=result/112348-Geologia Histórica /info.txt
+27 mtime=1506572363.369251
+27 atime=1506596773.193972

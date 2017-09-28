@@ -1,0 +1,3 @@
+63 path=result/115797-Recursos T F 3º Ciclo de Vida /info.txt
+27 mtime=1506572930.511113
+27 atime=1506596775.925998

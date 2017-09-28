@@ -1,0 +1,3 @@
+64 path=result/114961-Vivências Saúde Fonoaudiológic /A .txt
+27 mtime=1506572994.449632
+27 atime=1506596788.430117

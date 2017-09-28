@@ -1,0 +1,3 @@
+63 path=result/203017-Terapia Ocupac B Evidências 3 /info.txt
+27 mtime=1506572958.078354
+27 atime=1506596775.909997

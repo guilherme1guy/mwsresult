@@ -1,0 +1,3 @@
+57 path=result/188506-Direito da Concorrência /info.txt
+26 mtime=1506571759.40523
+27 atime=1506596779.766034

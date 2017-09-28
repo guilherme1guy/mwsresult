@@ -1,0 +1,3 @@
+65 path=result/201961-Monitoramento Av Pol Púb Saúde /info.txt
+26 mtime=1506572898.30026
+27 atime=1506596788.510118

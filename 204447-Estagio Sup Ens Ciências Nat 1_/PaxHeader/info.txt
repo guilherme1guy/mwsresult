@@ -1,0 +1,3 @@
+64 path=result/204447-Estagio Sup Ens Ciências Nat 1 /info.txt
+27 mtime=1506572635.478172
+27 atime=1506596774.961988

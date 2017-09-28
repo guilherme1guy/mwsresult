@@ -1,0 +1,3 @@
+64 path=result/121916-Tóp em Quim Aplic e do Cotid 1 /info.txt
+27 mtime=1506572783.687222
+26 atime=1506596766.75391

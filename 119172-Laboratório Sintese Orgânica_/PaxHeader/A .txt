@@ -1,0 +1,3 @@
+61 path=result/119172-Laboratório Sintese Orgânica /A .txt
+27 mtime=1506572506.339322
+26 atime=1506596787.68611

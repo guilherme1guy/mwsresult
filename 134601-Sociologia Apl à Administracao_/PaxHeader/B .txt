@@ -1,0 +1,3 @@
+62 path=result/134601-Sociologia Apl à Administracao /B .txt
+26 mtime=1506569556.68599
+27 atime=1506596762.197867

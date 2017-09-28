@@ -1,0 +1,3 @@
+61 path=result/179183-Assistência Farmacêutica 1 /info.txt
+27 mtime=1506571655.732676
+27 atime=1506596764.549889

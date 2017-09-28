@@ -1,0 +1,3 @@
+59 path=result/206164-Instrumentacao Eletrônica /info.txt
+27 mtime=1506573044.721082
+27 atime=1506596788.358116

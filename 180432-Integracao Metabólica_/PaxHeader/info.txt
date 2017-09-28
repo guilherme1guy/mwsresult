@@ -1,0 +1,3 @@
+55 path=result/180432-Integracao Metabólica /info.txt
+26 mtime=1506572889.64062
+27 atime=1506596776.005998

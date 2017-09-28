@@ -1,0 +1,3 @@
+63 path=result/184187-Direito Internacional Público /info.txt
+27 mtime=1506571769.553428
+27 atime=1506596779.758034

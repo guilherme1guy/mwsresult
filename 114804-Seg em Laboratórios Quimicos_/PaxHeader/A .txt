@@ -1,0 +1,3 @@
+60 path=result/114804-Seg em Laboratórios Quimicos /A .txt
+27 mtime=1506572527.096808
+26 atime=1506596787.65411

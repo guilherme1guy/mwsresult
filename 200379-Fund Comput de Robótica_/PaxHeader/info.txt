@@ -1,0 +1,3 @@
+57 path=result/200379-Fund Comput de Robótica /info.txt
+27 mtime=1506569785.287203
+27 atime=1506596767.249915

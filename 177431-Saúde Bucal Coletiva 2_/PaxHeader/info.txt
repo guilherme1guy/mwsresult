@@ -1,0 +1,3 @@
+56 path=result/177431-Saúde Bucal Coletiva 2 /info.txt
+27 mtime=1506571037.328102
+27 atime=1506596785.266087

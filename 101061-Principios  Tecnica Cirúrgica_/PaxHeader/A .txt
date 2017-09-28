@@ -1,0 +1,3 @@
+61 path=result/101061-Principios  Tecnica Cirúrgica /A .txt
+27 mtime=1506571033.476021
+27 atime=1506596785.266087

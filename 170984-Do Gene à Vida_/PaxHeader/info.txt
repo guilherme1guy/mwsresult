@@ -1,0 +1,3 @@
+48 path=result/170984-Do Gene à Vida /info.txt
+27 mtime=1506572818.588553
+27 atime=1506596788.598119

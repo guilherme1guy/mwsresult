@@ -1,0 +1,3 @@
+61 path=result/116882-Autômatos e Computabilidade /info.txt
+27 mtime=1506569772.818908
+27 atime=1506596767.261915

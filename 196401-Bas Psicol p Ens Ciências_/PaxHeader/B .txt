@@ -1,0 +1,3 @@
+57 path=result/196401-Bas Psicol p Ens Ciências /B .txt
+27 mtime=1506572583.536781
+26 atime=1506596781.45005

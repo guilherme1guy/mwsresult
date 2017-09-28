@@ -1,0 +1,3 @@
+64 path=result/107395-Tópicos Especiais em Agronomia /info.txt
+27 mtime=1506571571.862784
+27 atime=1506596772.457965

@@ -1,0 +1,3 @@
+50 path=result/202681-Etica Filosófica /info.txt
+27 mtime=1506570280.150231
+27 atime=1506596777.522013

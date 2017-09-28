@@ -1,0 +1,3 @@
+56 path=result/107751-Laboratório de Mecânica /A .txt
+27 mtime=1506572296.156651
+27 atime=1506596773.261972

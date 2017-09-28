@@ -1,0 +1,3 @@
+63 path=result/100862-A Enf Estrat Saúde da Familia /info.txt
+27 mtime=1506572798.126052
+26 atime=1506596766.74191

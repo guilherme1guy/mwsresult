@@ -1,0 +1,3 @@
+55 path=result/124010-Introducao à Psicologia /E .txt
+27 mtime=1506571061.064767
+27 atime=1506596785.222086

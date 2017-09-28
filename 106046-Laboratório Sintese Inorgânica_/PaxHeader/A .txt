@@ -1,0 +1,3 @@
+63 path=result/106046-Laboratório Sintese Inorgânica /A .txt
+27 mtime=1506572505.483261
+26 atime=1506596775.12999

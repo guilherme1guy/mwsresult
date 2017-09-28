@@ -1,0 +1,3 @@
+64 path=result/170348-Agronegóc. Sist. Agroindustria /info.txt
+27 mtime=1506571474.387541
+27 atime=1506596764.777891

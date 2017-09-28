@@ -1,0 +1,3 @@
+64 path=result/106411-Percepcao C Ciência Tecnologia /info.txt
+27 mtime=1506571062.648821
+27 atime=1506596779.426031

@@ -1,0 +1,3 @@
+56 path=result/109878-Termodinâmica Aplicada /info.txt
+27 mtime=1506572531.529126
+27 atime=1506596781.514051

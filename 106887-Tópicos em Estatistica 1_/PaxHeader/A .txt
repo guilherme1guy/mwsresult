@@ -1,0 +1,3 @@
+56 path=result/106887-Tópicos em Estatistica 1 /A .txt
+27 mtime=1506570242.399981
+26 atime=1506596762.54187

@@ -1,0 +1,3 @@
+64 path=result/127370-Manisfestacões Alt C Esportiva /info.txt
+27 mtime=1506571922.578632
+27 atime=1506596787.122104

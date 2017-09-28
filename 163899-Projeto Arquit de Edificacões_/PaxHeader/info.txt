@@ -1,0 +1,3 @@
+63 path=result/163899-Projeto Arquit de Edificacões /info.txt
+27 mtime=1506570001.029591
+27 atime=1506596783.298068

@@ -1,0 +1,3 @@
+60 path=result/123064-Fundamentos Tec Histológicas /B .txt
+27 mtime=1506570322.136298
+27 atime=1506596784.646081

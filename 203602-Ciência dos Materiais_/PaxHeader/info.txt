@@ -1,0 +1,3 @@
+55 path=result/203602-Ciência dos Materiais /info.txt
+27 mtime=1506569962.086052
+27 atime=1506596776.250001

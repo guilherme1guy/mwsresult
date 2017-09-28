@@ -1,0 +1,3 @@
+62 path=result/103560-Tópicos Especiais C Naturais /info.txt
+27 mtime=1506572785.835042
+27 atime=1506596781.214048

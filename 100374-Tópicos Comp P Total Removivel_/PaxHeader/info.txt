@@ -1,0 +1,3 @@
+64 path=result/100374-Tópicos Comp P Total Removivel /info.txt
+27 mtime=1506571041.268192
+27 atime=1506596764.105885

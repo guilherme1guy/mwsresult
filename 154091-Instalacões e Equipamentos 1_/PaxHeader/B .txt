@@ -1,0 +1,3 @@
+60 path=result/154091-Instalacões e Equipamentos 1 /B .txt
+27 mtime=1506571323.546377
+27 atime=1506596786.462098

@@ -1,0 +1,3 @@
+53 path=result/181064-Analise de Decisões 1 /A .txt
+27 mtime=1506569524.414726
+27 atime=1506596766.321906

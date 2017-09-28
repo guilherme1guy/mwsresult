@@ -1,0 +1,3 @@
+60 path=result/118885-Ateliê Hist Quadr ArquiUrban /A .txt
+27 mtime=1506571073.001201
+27 atime=1506596779.414031

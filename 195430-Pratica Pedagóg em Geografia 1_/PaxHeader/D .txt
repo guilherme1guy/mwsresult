@@ -1,0 +1,3 @@
+62 path=result/195430-Pratica Pedagóg em Geografia 1 /D .txt
+27 mtime=1506572251.337649
+27 atime=1506596780.594042

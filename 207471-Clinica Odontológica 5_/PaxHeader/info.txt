@@ -1,0 +1,3 @@
+56 path=result/207471-Clinica Odontológica 5 /info.txt
+27 mtime=1506571006.641961
+27 atime=1506596785.294087

@@ -1,0 +1,3 @@
+63 path=result/100943-Seguranca e Saúde no Trabalho /info.txt
+27 mtime=1506570053.961844
+27 atime=1506596783.246067

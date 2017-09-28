@@ -1,0 +1,3 @@
+62 path=result/109711-Geografia,  Ambiente e Saúde /info.txt
+27 mtime=1506570349.228882
+27 atime=1506596777.370011

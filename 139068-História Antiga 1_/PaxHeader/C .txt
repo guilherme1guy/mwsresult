@@ -1,0 +1,3 @@
+49 path=result/139068-História Antiga 1 /C .txt
+27 mtime=1506570391.441532
+27 atime=1506596777.334011

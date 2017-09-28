@@ -1,0 +1,3 @@
+58 path=result/181013-Introducao à Administracao /I .txt
+27 mtime=1506569549.314158
+27 atime=1506596766.281906

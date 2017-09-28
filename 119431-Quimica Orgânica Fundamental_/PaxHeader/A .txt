@@ -1,0 +1,3 @@
+60 path=result/119431-Quimica Orgânica Fundamental /A .txt
+27 mtime=1506572524.136596
+26 atime=1506596787.65811

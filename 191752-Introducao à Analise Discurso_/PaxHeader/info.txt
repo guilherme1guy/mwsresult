@@ -1,0 +1,3 @@
+63 path=result/191752-Introducao à Analise Discurso /info.txt
+27 mtime=1506572446.327056
+27 atime=1506596766.165904

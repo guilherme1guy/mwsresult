@@ -1,0 +1,3 @@
+60 path=result/101745-Tópicos E em Gestao Inovacao /A .txt
+27 mtime=1506570063.922057
+27 atime=1506596778.070018

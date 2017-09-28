@@ -1,0 +1,3 @@
+61 path=result/106127-Espectroscopia Atômica e Mole /A .txt
+27 mtime=1506572482.421616
+27 atime=1506596780.114038

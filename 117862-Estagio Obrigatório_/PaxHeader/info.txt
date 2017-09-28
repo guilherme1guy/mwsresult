@@ -1,0 +1,3 @@
+53 path=result/117862-Estagio Obrigatório /info.txt
+27 mtime=1506570423.723783
+27 atime=1506596763.517879

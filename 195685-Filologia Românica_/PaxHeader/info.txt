@@ -1,0 +1,3 @@
+52 path=result/195685-Filologia Românica /info.txt
+27 mtime=1506572442.198765
+27 atime=1506596766.165904

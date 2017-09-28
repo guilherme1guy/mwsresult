@@ -1,0 +1,3 @@
+64 path=result/185205-Tecnicas Pesq Ciência Politica /info.txt
+26 mtime=1506572142.75867
+27 atime=1506596780.714043

@@ -1,0 +1,3 @@
+55 path=result/180408-Introducao à Museologia /A .txt
+27 mtime=1506571616.125331
+27 atime=1506596764.581889

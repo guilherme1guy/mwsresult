@@ -1,0 +1,3 @@
+53 path=result/107786-Mecânica Classica B /info.txt
+27 mtime=1506572305.205264
+27 atime=1506596773.249972

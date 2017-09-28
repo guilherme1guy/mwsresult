@@ -1,0 +1,3 @@
+59 path=result/105732-Tópicos Esp Sociologia 10 /info.txt
+27 mtime=1506571306.844979
+27 atime=1506596779.098028

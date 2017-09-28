@@ -1,0 +1,3 @@
+63 path=result/100587-Teorias Filosóficas Linguagem /info.txt
+27 mtime=1506570301.267559
+27 atime=1506596768.217924

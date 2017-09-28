@@ -1,0 +1,3 @@
+60 path=result/179566-Prat em Quimica Farmacêutica /B .txt
+27 mtime=1506571701.272558
+27 atime=1506596764.453888

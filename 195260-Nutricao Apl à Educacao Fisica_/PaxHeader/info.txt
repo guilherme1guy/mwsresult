@@ -1,0 +1,3 @@
+64 path=result/195260-Nutricao Apl à Educacao Fisica /info.txt
+27 mtime=1506571942.375544
+27 atime=1506596765.505898

@@ -1,0 +1,3 @@
+61 path=result/204561-Cuidado Psicossocial em Saúde /B .txt
+27 mtime=1506569930.185531
+27 atime=1506596766.909912

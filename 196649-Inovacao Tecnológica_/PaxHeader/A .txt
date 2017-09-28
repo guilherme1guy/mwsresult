@@ -1,0 +1,3 @@
+52 path=result/196649-Inovacao Tecnológica /A .txt
+27 mtime=1506572679.359029
+27 atime=1506596787.506108

@@ -1,0 +1,3 @@
+61 path=result/175897-Gest Ev Esporte, Saúd Lazer /info.txt
+27 mtime=1506571916.122344
+27 atime=1506596765.529898

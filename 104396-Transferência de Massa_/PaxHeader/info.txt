@@ -1,0 +1,3 @@
+56 path=result/104396-Transferência de Massa /info.txt
+27 mtime=1506572540.417764
+27 atime=1506596765.985903

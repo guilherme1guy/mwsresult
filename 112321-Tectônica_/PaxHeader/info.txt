@@ -1,0 +1,3 @@
+43 path=result/112321-Tectônica /info.txt
+27 mtime=1506572419.757184
+27 atime=1506596766.197905

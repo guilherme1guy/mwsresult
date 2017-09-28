@@ -1,0 +1,3 @@
+62 path=result/100811-Introducao Prótese P Removivel /A .txt
+27 mtime=1506571022.995846
+27 atime=1506596771.041951

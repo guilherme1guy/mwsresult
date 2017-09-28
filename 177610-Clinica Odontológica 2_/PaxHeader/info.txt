@@ -1,0 +1,3 @@
+56 path=result/177610-Clinica Odontológica 2 /info.txt
+27 mtime=1506571001.997338
+27 atime=1506596771.501955

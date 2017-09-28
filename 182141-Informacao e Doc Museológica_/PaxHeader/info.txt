@@ -1,0 +1,3 @@
+62 path=result/182141-Informacao e Doc Museológica /info.txt
+27 mtime=1506571610.985459
+27 atime=1506596779.974036

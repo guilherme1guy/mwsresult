@@ -1,0 +1,3 @@
+59 path=result/198234-História da Arte-Educacao 1 /A .txt
+27 mtime=1506572067.090137
+27 atime=1506596765.217895

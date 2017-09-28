@@ -1,0 +1,3 @@
+64 path=result/203416-Cuidado Enf Psico Saúde Mental /info.txt
+27 mtime=1506572813.388916
+27 atime=1506596781.194048

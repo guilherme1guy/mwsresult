@@ -1,0 +1,3 @@
+57 path=result/208817-Eco e Gestao Farmacêutica /A .txt
+27 mtime=1506572820.556418
+27 atime=1506596774.805987

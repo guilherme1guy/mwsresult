@@ -1,0 +1,3 @@
+59 path=result/101184-Bioetica e Saúde Coletiva /info.txt
+27 mtime=1506572806.933384
+27 atime=1506596781.202048

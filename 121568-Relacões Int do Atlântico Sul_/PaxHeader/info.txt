@@ -1,0 +1,3 @@
+64 path=result/121568-Relacões Int do Atlântico Sul /info.txt
+27 mtime=1506572562.553835
+27 atime=1506596765.969903

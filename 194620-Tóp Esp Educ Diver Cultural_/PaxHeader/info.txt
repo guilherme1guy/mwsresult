@@ -1,0 +1,3 @@
+61 path=result/194620-Tóp Esp Educ Diver Cultural /info.txt
+27 mtime=1506571348.536499
+26 atime=1506596763.56188

@@ -1,0 +1,3 @@
+58 path=result/177679-Vivências Integradoras 4 /info.txt
+27 mtime=1506569948.282052
+27 atime=1506596783.422069

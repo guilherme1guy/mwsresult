@@ -1,0 +1,3 @@
+59 path=result/207985-Assistência Farmacêutica 2 /B .txt
+27 mtime=1506571656.640667
+27 atime=1506596779.930036

@@ -1,0 +1,3 @@
+62 path=result/104191-Pratica de Educacao Ciências 1 /A .txt
+26 mtime=1506572221.25967
+27 atime=1506596765.029894

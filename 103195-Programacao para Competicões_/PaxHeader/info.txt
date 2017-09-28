@@ -1,0 +1,3 @@
+62 path=result/103195-Programacao para Competicões /info.txt
+27 mtime=1506573094.172967
+27 atime=1506596782.110057

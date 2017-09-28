@@ -1,0 +1,3 @@
+56 path=result/196207-Introducao à Estatistica /A .txt
+27 mtime=1506572681.890662
+27 atime=1506596765.837901

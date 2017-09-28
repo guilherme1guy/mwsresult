@@ -1,0 +1,3 @@
+64 path=result/202851-Tecnologias Inf Comun em Saúde /info.txt
+27 mtime=1506571206.349061
+27 atime=1506596770.729948

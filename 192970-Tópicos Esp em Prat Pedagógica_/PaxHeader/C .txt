@@ -1,0 +1,3 @@
+63 path=result/192970-Tópicos Esp em Prat Pedagógica /C .txt
+27 mtime=1506570695.391119
+26 atime=1506596785.64609

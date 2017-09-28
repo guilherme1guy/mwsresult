@@ -1,0 +1,3 @@
+60 path=result/119610-Introducao à Fisica da Terra /A .txt
+27 mtime=1506572373.113927
+27 atime=1506596787.850111

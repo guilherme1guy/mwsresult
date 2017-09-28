@@ -1,0 +1,3 @@
+60 path=result/104779-Aerodinâm Sist Aeroespaciais /A .txt
+27 mtime=1506572997.077591
+27 atime=1506596766.553908

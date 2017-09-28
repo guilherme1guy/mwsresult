@@ -1,0 +1,3 @@
+59 path=result/150665-Pesq Lingüistica Aplicada /info.txt
+26 mtime=1506570543.26583
+27 atime=1506596778.714024

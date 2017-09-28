@@ -1,0 +1,3 @@
+55 path=result/180581-Saúde, Amb e Trabalho /info.txt
+27 mtime=1506572935.618957
+27 atime=1506596766.605909

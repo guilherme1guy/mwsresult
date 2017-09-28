@@ -1,0 +1,3 @@
+59 path=result/198315-Introd Pesquisa em Música /info.txt
+27 mtime=1506572078.434795
+27 atime=1506596780.806044

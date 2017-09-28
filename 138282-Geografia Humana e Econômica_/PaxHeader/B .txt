@@ -1,0 +1,3 @@
+60 path=result/138282-Geografia Humana e Econômica /B .txt
+27 mtime=1506570345.902868
+27 atime=1506596762.397869

@@ -1,0 +1,3 @@
+61 path=result/185914-Tóp Esp Ciência Politica 2 /info.txt
+27 mtime=1506572154.251385
+27 atime=1506596773.373973

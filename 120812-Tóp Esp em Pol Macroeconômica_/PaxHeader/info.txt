@@ -1,0 +1,3 @@
+64 path=result/120812-Tóp Esp em Pol Macroeconômica /info.txt
+27 mtime=1506569924.660392
+27 atime=1506596783.442069

@@ -1,0 +1,3 @@
+63 path=result/184021-Inst de Dir Público e Privado /info.txt
+27 mtime=1506571794.774014
+27 atime=1506596779.738034

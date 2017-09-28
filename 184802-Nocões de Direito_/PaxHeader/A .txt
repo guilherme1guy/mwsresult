@@ -1,0 +1,3 @@
+49 path=result/184802-Nocões de Direito /A .txt
+27 mtime=1506571802.518218
+27 atime=1506596787.246106

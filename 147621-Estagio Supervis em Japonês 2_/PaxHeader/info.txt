@@ -1,0 +1,3 @@
+63 path=result/147621-Estagio Supervis em Japonês 2 /info.txt
+27 mtime=1506570463.836341
+27 atime=1506596784.346078

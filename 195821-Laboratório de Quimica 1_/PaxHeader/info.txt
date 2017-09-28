@@ -1,0 +1,3 @@
+58 path=result/195821-Laboratório de Quimica 1 /info.txt
+27 mtime=1506572688.377741
+27 atime=1506596781.330049

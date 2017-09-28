@@ -1,0 +1,3 @@
+64 path=result/181498-Fisiot A A C: Rec Terapêuticos /info.txt
+27 mtime=1506572858.054143
+27 atime=1506596781.126047

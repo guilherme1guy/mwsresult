@@ -1,0 +1,3 @@
+61 path=result/123455-Ciência, T, S: Uma Introducao /A .txt
+27 mtime=1506572595.658072
+27 atime=1506596787.598109

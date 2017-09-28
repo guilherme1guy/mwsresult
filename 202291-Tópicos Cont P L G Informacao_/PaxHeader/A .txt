@@ -1,0 +1,3 @@
+61 path=result/202291-Tópicos Cont P L G Informacao /A .txt
+27 mtime=1506569558.917939
+27 atime=1506596762.189867

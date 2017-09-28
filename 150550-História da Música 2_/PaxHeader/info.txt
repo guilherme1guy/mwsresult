@@ -1,0 +1,3 @@
+55 path=result/150550-História da Música 2 /info.txt
+27 mtime=1506570770.173143
+27 atime=1506596778.378021

@@ -1,0 +1,3 @@
+62 path=result/119466-Pratica d Eletrônica Digital 1 /E .txt
+26 mtime=1506573085.44096
+27 atime=1506596775.805996

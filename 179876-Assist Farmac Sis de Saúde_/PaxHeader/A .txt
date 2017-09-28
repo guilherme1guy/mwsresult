@@ -1,0 +1,3 @@
+58 path=result/179876-Assist Farmac Sis de Saúde /A .txt
+27 mtime=1506572802.985679
+27 atime=1506596781.202048

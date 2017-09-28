@@ -1,0 +1,3 @@
+55 path=result/158399-Met Pesq Art Cên e Educ /A .txt
+27 mtime=1506569587.453287
+27 atime=1506596767.897921

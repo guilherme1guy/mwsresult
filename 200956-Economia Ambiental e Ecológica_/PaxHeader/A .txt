@@ -1,0 +1,3 @@
+62 path=result/200956-Economia Ambiental e Ecológica /A .txt
+27 mtime=1506569899.541612
+27 atime=1506596776.386002

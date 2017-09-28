@@ -1,0 +1,3 @@
+62 path=result/142930-Inglês: Comp Textos Escritos 1 /TB.txt
+27 mtime=1506570474.557461
+26 atime=1506596777.25801

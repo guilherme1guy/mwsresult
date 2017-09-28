@@ -1,0 +1,3 @@
+59 path=result/136841-Seguridade Social 2 - Saúde /B .txt
+26 mtime=1506571258.80507
+26 atime=1506596763.64588

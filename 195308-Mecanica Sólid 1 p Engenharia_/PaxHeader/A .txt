@@ -1,0 +1,3 @@
+61 path=result/195308-Mecanica Sólid 1 p Engenharia /A .txt
+27 mtime=1506573064.856989
+27 atime=1506596788.338116

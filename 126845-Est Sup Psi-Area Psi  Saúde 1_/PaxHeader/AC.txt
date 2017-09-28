@@ -1,0 +1,3 @@
+61 path=result/126845-Est Sup Psi-Area Psi  Saúde 1 /AC.txt
+27 mtime=1506571121.295508
+26 atime=1506596779.33403

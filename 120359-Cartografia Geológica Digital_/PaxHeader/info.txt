@@ -1,0 +1,3 @@
+63 path=result/120359-Cartografia Geológica Digital /info.txt
+27 mtime=1506572346.372078
+27 atime=1506596773.221972

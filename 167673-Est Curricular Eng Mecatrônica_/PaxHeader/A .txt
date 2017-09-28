@@ -1,0 +1,3 @@
+62 path=result/167673-Est Curricular Eng Mecatrônica /A .txt
+27 mtime=1506572050.717202
+27 atime=1506596786.966103

@@ -1,0 +1,3 @@
+61 path=result/122840-Lab Sis Eletricos de Potência /F .txt
+26 mtime=1506570106.65439
+27 atime=1506596769.041932

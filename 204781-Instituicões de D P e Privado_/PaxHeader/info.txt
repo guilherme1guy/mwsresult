@@ -1,0 +1,3 @@
+63 path=result/204781-Instituicões de D P e Privado /info.txt
+27 mtime=1506570369.170381
+27 atime=1506596768.089923

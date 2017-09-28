@@ -1,0 +1,3 @@
+60 path=result/192520-Educacao e Ling Tecnológicas /C .txt
+27 mtime=1506570685.419986
+27 atime=1506596770.065942

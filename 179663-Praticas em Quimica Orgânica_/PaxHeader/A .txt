@@ -1,0 +1,3 @@
+60 path=result/179663-Praticas em Quimica Orgânica /A .txt
+27 mtime=1506571702.076562
+27 atime=1506596771.849959

@@ -1,0 +1,3 @@
+52 path=result/176681-Engenharia Econômica /A .txt
+27 mtime=1506570027.947418
+27 atime=1506596783.270068

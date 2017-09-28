@@ -1,0 +1,3 @@
+53 path=result/158437-Laboratório de Teatro /A .txt
+27 mtime=1506569586.113318
+27 atime=1506596762.157866

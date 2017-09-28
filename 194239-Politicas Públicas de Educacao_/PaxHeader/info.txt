@@ -1,0 +1,3 @@
+64 path=result/194239-Politicas Públicas de Educacao /info.txt
+27 mtime=1506571050.320431
+27 atime=1506596779.454031

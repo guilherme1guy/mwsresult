@@ -1,0 +1,3 @@
+43 path=result/104299-Polonês 3 /info.txt
+27 mtime=1506570546.029277
+27 atime=1506596784.038075

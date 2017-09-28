@@ -1,0 +1,3 @@
+64 path=result/208141-Tópicos Especiais em Pediatria /info.txt
+27 mtime=1506572044.512852
+27 atime=1506596773.449974

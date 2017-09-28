@@ -1,0 +1,3 @@
+53 path=result/188247-História do Direito /info.txt
+27 mtime=1506571794.418004
+27 atime=1506596771.701957

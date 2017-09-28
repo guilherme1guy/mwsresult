@@ -1,0 +1,3 @@
+58 path=result/202878-Gestao e Promocao da Saúde /A .txt
+27 mtime=1506571190.155897
+27 atime=1506596786.574099

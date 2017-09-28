@@ -1,0 +1,3 @@
+59 path=result/117986-Tópicos Especiais em Design /F .txt
+27 mtime=1506569869.892325
+27 atime=1506596767.001912

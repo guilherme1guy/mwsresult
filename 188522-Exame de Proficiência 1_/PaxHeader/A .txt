@@ -1,0 +1,3 @@
+55 path=result/188522-Exame de Proficiência 1 /A .txt
+27 mtime=1506571787.521832
+27 atime=1506596787.274106

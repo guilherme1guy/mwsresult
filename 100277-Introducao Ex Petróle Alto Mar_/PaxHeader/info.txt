@@ -1,0 +1,3 @@
+64 path=result/100277-Introducao Ex Petróle Alto Mar /info.txt
+27 mtime=1506570178.640546
+27 atime=1506596768.513927

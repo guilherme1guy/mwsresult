@@ -1,0 +1,3 @@
+61 path=result/197564-Conc Org Ciên Humanas Sociais /A .txt
+27 mtime=1506572603.484402
+27 atime=1506596774.993989

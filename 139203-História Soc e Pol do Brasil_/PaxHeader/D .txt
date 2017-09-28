@@ -1,0 +1,3 @@
+60 path=result/139203-História Soc e Pol do Brasil /D .txt
+27 mtime=1506570403.442636
+26 atime=1506596784.51808

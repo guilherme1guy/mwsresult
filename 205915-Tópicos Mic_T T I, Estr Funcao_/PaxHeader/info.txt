@@ -1,0 +1,3 @@
+64 path=result/205915-Tópicos Mic:T T I, Estr Funcao /info.txt
+27 mtime=1506572043.684806
+27 atime=1506596765.237896

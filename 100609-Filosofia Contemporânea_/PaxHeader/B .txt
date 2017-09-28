@@ -1,0 +1,3 @@
+55 path=result/100609-Filosofia Contemporânea /B .txt
+27 mtime=1506570282.293276
+27 atime=1506596768.241924

@@ -1,0 +1,3 @@
+56 path=result/199435-Top Esp sobre a Amazônia /A .txt
+27 mtime=1506569480.531727
+27 atime=1506596766.357906

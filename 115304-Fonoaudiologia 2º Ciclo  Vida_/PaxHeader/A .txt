@@ -1,0 +1,3 @@
+61 path=result/115304-Fonoaudiologia 2º Ciclo  Vida /A .txt
+27 mtime=1506572867.097673
+27 atime=1506596781.118047

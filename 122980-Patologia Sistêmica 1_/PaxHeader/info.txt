@@ -1,0 +1,3 @@
+55 path=result/122980-Patologia Sistêmica 1 /info.txt
+27 mtime=1506572030.724086
+27 atime=1506596780.850045

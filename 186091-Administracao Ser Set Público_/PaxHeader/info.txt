@@ -1,0 +1,3 @@
+63 path=result/186091-Administracao Ser Set Público /info.txt
+26 mtime=1506570356.60075
+27 atime=1506596768.097923

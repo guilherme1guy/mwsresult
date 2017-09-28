@@ -1,0 +1,3 @@
+56 path=result/111929-Lab de Controle Dinâmico /A .txt
+27 mtime=1506570098.441218
+27 atime=1506596762.769872

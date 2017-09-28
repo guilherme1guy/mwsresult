@@ -1,0 +1,3 @@
+60 path=result/124044-Desenvolvimento C V Infância /A .txt
+27 mtime=1506571100.202403
+26 atime=1506596770.90995

@@ -1,0 +1,3 @@
+62 path=result/196151-Administracao Apl  Agronegócio /A .txt
+27 mtime=1506572567.356636
+27 atime=1506596775.049989

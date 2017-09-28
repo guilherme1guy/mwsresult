@@ -1,0 +1,3 @@
+56 path=result/199273-Mecânica e Vida no Campo /A .txt
+27 mtime=1506572699.124279
+27 atime=1506596781.314049

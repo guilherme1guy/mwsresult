@@ -1,0 +1,3 @@
+55 path=result/187810-Auditoria Setor Público /A .txt
+27 mtime=1506571398.020783
+27 atime=1506596764.877892

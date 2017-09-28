@@ -1,0 +1,3 @@
+61 path=result/203114-Filosofia e Hist das Ciências /C .txt
+27 mtime=1506572211.687047
+27 atime=1506596765.037894
