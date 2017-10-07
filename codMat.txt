@@ -14,10 +14,8 @@
 100331-Residência Politic Públicas 2 
 100340-Instalacões e Equipamentos 1 
 100358-Instalacões e Equipamentos 2 
-100366-Uso Racional Medic Odontologia 
 100374-Tópicos Comp P Total Removivel 
 100382-Tópicos C Pr Parcial Removivel 
-100412-Projeto de Extensao Música 2 
 100421-Introd aos Cuidados Paliativos 
 100439-Est Curr Sup em Enfermagem 2 
 100455-Seguridade Social 3 Ass Social 
@@ -37,11 +35,7 @@
 100641-Estagio Sup Ensino Biologia 
 100650-Evolucao 
 100668-Fisiologia Animal 2 
-100684-Fundamentos de Fisica 
-100692-Embriologia Animal 
 100706-Biologia Molecular 
-100714-Organografia Sist Fanerofitica 
-100722-Didatica da Biologia 
 100731-Patologia Molecular Clinica 
 100749-Escolarizacao de Surdos LIBRAS 
 100757-Clinica Medica Animais Comp 1 
@@ -67,24 +61,13 @@
 101052-Estagio Supervisionado 1 
 101061-Principios  Tecnica Cirúrgica 
 101079-Clinica Odontológica 6 
-101095-Fundamentos de Compiladores 
+101095-Compiladores 1 
 101133-Sistemas Aeroespaciais 
 101141-TCC 1 
 101176-Atencao Primaria em Saúde 
 101184-Bioetica e Saúde Coletiva 
 101192-Demografia e B Saúde Coletiva 
 101206-Instr Princ Contrabaixo Elet 3 
-101214-Instr Princ Contrabaixo Elet 4 
-101222-Instrumento Princ Oboe 1 
-101231-Instrumento Princ Oboe 2 
-101249-Instrumento Princ Oboe 3 
-101257-Instrumento Princ Oboe 4 
-101265-Instrumento Princip Violino 1 
-101273-Instrumento Princip Violino 2 
-101281-Instrumento Princip Violino 3 
-101290-Instrumento Princip Violino 4 
-101311-Estagio em Extensao 1 
-101320-Estagio em Extensao 2 
 101389-Proj de Sistemas de Producao 5 
 101397-Proj de Sistemas de Producao 6 
 101401-Proj de Sistemas de Producao 7 
@@ -142,17 +125,10 @@
 102962-Proj Integrador em Turismo 3 
 102971-Estagio Supervisionado 2 
 102997-Enoturismo 
-103004-Fisiologia Animal 1 
-103012-Fisiologia Vegetal 
-103021-Biofisica 
-103039-Parasitologia 
-103047-Venenos Animais 
-103098-Tópicos Esp Ensino de Biologia 
-103101-Tópicos Esp Ensino de Ciências 
 103110-Doencas Paras Animais Domestic 
 103128-Introducao Ciênc Farmacêuticas 
 103195-Programacao para Competicões 
-103209-Estrut de Dados e Algor 2 
+103209-Estruturas de Dados 2 
 103225-San, Meio Ambiente e Plan Urb 
 103233-Trat Aguas Resid Urbanas 
 103241-Trat Agua p Cons Humano 
@@ -200,9 +176,7 @@
 104001-Introd An Sis Ambientais 
 104027-Aval Controle Poluicao Agua 
 104035-Aval e Controle Poluicao Solo 
-104051-Bioqui Apl Proc Eng Ambiental 
 104078-Trat Avan Aguas Residuarias 
-104116-Estagio Engenharia Ambiental 
 104124-Aval Impactos Risc Ambientais 
 104132-Proj Final Eng Ambiental 1 
 104141-Proj Final Eng Ambiental 2 
@@ -256,7 +230,6 @@
 104809-Principios Quimica Analitica 
 104817-Comunicacao em Saúde 2 
 104825-Saúde Indigena 
-104833-Proj Pesq Educ Cientifica 
 104841-Top Esp Com Organizacional 4 
 104850-Top Esp Com Organizacional  3 
 104876-Sistemas Controle Automotivo 
@@ -303,7 +276,6 @@
 106101-Diplomacao Interpret Teatral 
 106119-Projeto Interpretacao Teatral 
 106127-Espectroscopia Atômica e Mole 
-106135-Trabalho d Conclusao Bac Qui 1 
 106143-Fundamentos An Comportamento 
 106178-Introducao Farmacia Hospitalar 
 106186-Proc de Desenvolvimento Humano 
@@ -331,36 +303,6 @@
 106810-Laboratório de Estatistica 1 
 106844-Modelos Lineares Generalizados 
 106887-Tópicos em Estatistica 1 
-106909-Pol Pub Educ Fis, Esp e Lazer 
-106917-Fund Hist-Filol da Educ Fisica 
-106925-Fund Sócio-Antrop da Educ Fis 
-106933-Est Sup Avan em Educ Fisica 
-106950-Administracao Educacao Fisica 
-106968-Met TEc de Pesq em Educ Fisica 
-106976-Fisiologia do Exercicio 1 
-106984-Anatomia Apl a Educacao Fisica 
-106992-Fisiologia do Exercicio 2 
-107000-Prev Acid e Primeiros Socorros 
-107018-Cinesiologia Apl a Educ Fisica 
-107034-Metodologia Danca e Expressao 
-107042-Metodologia do Atletismo 
-107077-Princ do Treinamento Resistido 
-107085-Fund Teo-Metod da Educ Fis 
-107093-Cien Pesq em Educ Fisica 
-107107-Estat Apl a Educacao Fisica 
-107131-Est Pesq em Educ Fis Escolar 
-107140-Metod Modal Esp Coletivas 
-107158-Metod das Lutas Artes Marciais 
-107166-Fund Des Apr Apl Educ Fis Inf 
-107174-F Des Apr Apl Educ Ens Fund 
-107182-Asp Psi Aprend Apl Educ Fisica 
-107191-Educ Fisica Praticas Corporais 
-107204-Educ Fisica: Leis, Normas Pol 
-107212-Est Sup na Educ Fis Infantil 
-107221-Est Sup Educ Fis Ens Fundam 
-107239-Est Sup Educ Fis Ens M EJA 
-107247-F D Apr Apl a Ed Fis Ens M EJA 
-107255-Semin Pesq em Educ Fisica 
 107263-Memórias Gastronôm Gustativas 
 107271-Proj Integrador em Turismo 4 
 107280-Crit  Hist da Arte no Brasil 3 
@@ -455,7 +397,6 @@
 108987-Rec Hidr P Ciênc Ambient 
 109029-Laboratório de Econometria 
 109037-Estagio Super Psicólogo STO 4 
-109045-Estagio Super Psicólogo STO 5 
 109096-Estudos Orient Pesq Saú  Enf 1 
 109100-Estudos Orient Pesq Saú  Enf 2 
 109118-Estudos Orient Pesq Saú  Enf 3 
@@ -481,7 +422,6 @@
 109606-Proj Transver Redes de Com 2 
 109614-Surdez: Cult, Lingua Sociedade 
 109622-Praticas de Campo em Botânica 
-109665-Educacao Fisica Adaptada 
 109681-Ergonomia Apl à Arq Interiores 
 109711-Geografia,  Ambiente e Saúde 
 109720-Praticas Pedagógicas em Filoso 
@@ -528,11 +468,7 @@
 110884-Saúde da Familia  Comunidade 1 
 110892-Psicologia Medica 4 
 111023-MECANICA 
-111112-Confl Estr Br Educ Pop 1 CEPEP 
-111147-História da Educacao 
 111155-Leitura e Producao de Texto 1 
-111163-Matematica e Sociedade 
-111171-Promocao e Saúde 
 111376-Turismo e Intertpr Patrimônio 
 111431-Lab de Teo, Crit Hist Arte 4 
 111449-TCC  Teor, Crit e Hist da Arte 
@@ -546,7 +482,6 @@
 111724-Dispositivos e Circuitos Eletr 
 111732-Lab Disp Circuitos Eletrônicos 
 111741-Sistemas Digitais 2 
-111767-Lab de Sistemas Digitais 2 
 111775-Analise dinâmica Linear 
 111783-Lab de An Dinâmica Linear 
 111791-Circuitos Eletricos 2 
@@ -658,7 +593,6 @@
 114375-Sinais e Sis em Tempo Discreto 
 114391-Instalacões Eletricas 
 114405-Lab de Instal Eletricas 
-114430-Est Sup Bac Area Psi Escolar 2 
 114464-Quimica Inorgânica Basica 
 114537-Termodinâmica Quimica 
 114545-Equilibrio e Cinetica Quimica 
@@ -714,7 +648,7 @@
 115525-Apuracao Texto Jornalistico 1 
 115533-Jornalismo em Radio 1 
 115541-Webdesing em Jornalismo 
-115576-Laboratório de Banco de Dados 
+115576-Sistemas de Banco de Dados 2 
 115614-Introducao à Economia Politica 
 115649-Instrumento Princ Guitarra 5 
 115657-Instrumento Princ Guitarra 6 
@@ -731,25 +665,19 @@
 115797-Recursos T F 3º Ciclo de Vida 
 115801-Seminario de Sociologia 
 115835-Citologia Clinica Cervico-Vagi 
-115851-Imunizacao na Pratica 
-115886-Geometria e a Vida no Campo 2 
 115908-Trabalho Conclusao de Curso 2 
 115924-INTRODUCAO A PROBABILIDADE 
 115932-METODOS ESTATISTICOS 1 
 115967-Tópicos em Estatistica 2 
 115983-Trabalho Conclusao de Curso 1 
-115991-Biologia G: Citol e Histologia 
 116297-T AVANCADOS EM COMPUTADERES 
 116319-ESTRUTURAS DE DADOS 
 116327-Organizacao de Arquivos 
-116335-Teoria e Hist da A P e Visuais 
 116343-LINGUAGENS DE PROGRAMACAO 
 116351-CIRCUITOS DIGITAIS 
 116360-TEORIA DA COMPUTACAO 
 116378-BANCOS DE DADOS 
-116386-História e Fil C Matematica 2 
 116394-ORG ARQ DE COMPUTADORES 
-116408-Amnientes Informatizados 
 116416-SISTEMAS DE INFORMACAO 
 116424-Transmissao de Dados 
 116432-SOFTWARE BASICO 
@@ -778,11 +706,6 @@
 116912-Trabalho de Graduacao 1 
 116921-Trabalho de Graduacao 2 
 116947-Programacao Competitiva 
-116955-Aritmetica 2 
-116963-Comunicacao e Tecn Informacao 
-116971-Pesquisa e Memória 3 
-116980-Leitura e Producao de Texto 3 
-116998-CEBEP 3: Raca, Gênero  Geracao 
 117013-SEMINARIO TOPICOS ESPECIAIS 
 117145-ALGEBRA 3 
 117161-Geometria 1 
@@ -791,8 +714,6 @@
 117242-INTRODUCAO AO PROC DE IMAGENS 
 117251-ARQ DE PROCESSADORES DIGITAIS 
 117307-SEMINARIO DE TOP MAT APLICADA 
-117331-Supervisao Est Lic-Computacao 
-117340-Est Sup Lic - Computacao 
 117366-Lógica Computacional 1 
 117391-Sis Digitais Integrados 
 117421-Algebra para o Ensino 1 
@@ -811,7 +732,6 @@
 117668-Propulsao Aeronautica 
 117676-Propulsao Quimica 
 117684-Propulsao Eletrica 
-117692-Biologia dos Anfibios 
 117706-Webjornalismo 
 117714-Campus Multimidia 
 117722-Empreendedorismo G Comunicacao 
@@ -828,7 +748,6 @@
 117901-Teoria e Aplicacao de Grafos 
 117935-Programacao Concorrente 
 117943-Computacao Experimental 
-117960-Fundamentos Sist Operacionais 
 117986-Tópicos Especiais em Design 
 118001-FISICA 1 
 118010-FISICA 1 EXPERIMENTAL 
@@ -871,7 +790,6 @@
 118893-Adv Sau: Soc Civ Reiv Dir Sau 
 118907-Top Esp Museol Apl a Acervos 1 
 118923-Proc de Inov Tecnol Assistiva 
-118940-Prospeccao Geoquimica 
 118958-Psicologia Medica 1 
 118982-Metodos e Praticas em C Animal 
 118991-Teoria de Circ Eletrônicos 1 
@@ -895,7 +813,6 @@
 119407-Estagio em Ensino de Quimica 1 
 119415-Est Reg no Ensino de Quimica 2 
 119431-Quimica Orgânica Fundamental 
-119440-Semin em Grad. em quimica 
 119458-Pratica de Circ Eletrônicos 2 
 119466-Pratica d Eletrônica Digital 1 
 119474-Pratica d Eletrônica Digital 2 
@@ -925,11 +842,6 @@
 119857-Politicas Linguisticas 
 119865-Teoria de Materiais Construcao 
 119873-Ges Ser Rec Hum Fonoaudiologia 
-119903-CEBEP 4 - Ques Soc e Quest Agr 
-119911-Leitura e Producao de Texto 4 
-119920-Morfossintaxe 
-119938-Oficina Bas Artes Cênicas Obac 
-119954-Intro a Linguagem Audiovisual 
 119962-Mineralogia 
 119971-Mineralogia de Nao Silicatos 
 119997-Recursos Minerais Energeticos 
@@ -938,11 +850,6 @@
 120065-Pesq em Educacao Cientifica 1 
 120090-Tóp Esp Ensino de Ciências 
 120162-Biologia Geral e Evolucao 
-120171-Biologia Vegetal e Animal 
-120189-Geociências P Educ do Campo 
-120197-Intro ao Pensamento Matematico 
-120201-Educacao Mat Educ  do Campo 1 
-120227-Pesquisa e Memória 4 
 120243-Semiótica e Comunicacao 
 120286-Cartografia e Geodesia 
 120308-Petrologia Sedimentar 
@@ -970,24 +877,17 @@
 120715-Teo Sist Conversao de Energia 
 120723-Lab Sist Conversao de Energia 
 120731-Ondul Fis Term P Engenharia 
-120740-Planej de Inventario Florestal 
-120758-Brasil Pol Eco  Rel Exteriores 
+120758-Brasil: Pol, Eco R Exteriores 
 120766-Estat Apl  Ciên Farmacêuticas 
 120782-Migracao e Refúgio 
 120812-Tóp Esp em Pol Macroeconômica 
 120855-Antenas Impressas 
 120952-Sinais e Sist Para Engenhaia 
-120979-Educacao Mat Educ  do Campo 2 
-120987-Quimica Terra e Ambiente 
-120995-Anatomia e Fisiologia Humana 
-121002-Luz Ondas e a Vida no Campo 
 121045-BIOFISICA 
 121061-IMUNOLOGIA GERAL 
 121118-EST SUP EM BIOLOGIA MOLECULAR 
 121126-BIOLOGIA CELULAR 
-121134-Intro Bioquimica Experimental 
 121142-TOPICOS EM BIOQUIMICA 1 
-121169-CEBEP 5- Diver Oper no Campo 
 121223-MICROBIOLOGIA BASICA 
 121240-BIOQUIMICA FUNDAMENTAL 
 121258-TOPICOS EM BIOQUIMICA 2 
@@ -996,10 +896,6 @@
 121371-PESQUISA EM BIOFISICA 
 121380-PESQUISA EM MICROBIOLOGIA 
 121398-BIOQUIMICA ANIMAL 
-121436-Leitura e Producao de Texto 5 
-121444-Pesquisa e Memória 5 
-121452-Audiov Estet Pol Educacao 
-121461-Pedagogia do Teatro 
 121487-Fund Micro Medica 
 121550-Corporeidades Brasileiras 
 121568-Relacões Int do Atlântico Sul 
@@ -1045,7 +941,6 @@
 122441-METODOS EM BIOLOGIA 1 
 122475-Morfol Taxonom das Criptogamas 
 122556-EST ESTR MACRO E MICRO MADEIRA 
-122572-EST EM TECNICAS MICROSCOPICAS 
 122581-PESQUISA EM FISIOLOGIA VEGETAL 
 122602-EST EM TECNICAS DE HERBARIO 
 122637-ESTAGIO EM TAXONOMIA DAS ALGAS 
@@ -1074,7 +969,6 @@
 123421-EST SUP EM BIOLOGIA ANIMAL 
 123455-Ciência, T, S: Uma Introducao 
 123609-FUND DE GENETICA E EVOLUCAO 
-123633-Apresent do Curso de Fisica 
 123650-VENENOS ANIMAIS 
 123668-Fundamentos em Farmacologia 
 123676-FARMACOLOGIA MEDICA 
@@ -1114,7 +1008,6 @@
 124460-Psicofarmacologia 
 124541-Comport Humano e Trabalho 
 124575-PERCEPCAO 
-124621-Est Sup  Lic - Ar Psi Esc 2 
 124664-ERGONOMIA 
 124672-Metodos de Pesq Psicologia 
 124702-Metodologia de Observacao 
@@ -1167,15 +1060,12 @@
 125857-GENETICA PLANTAS CULTIVADAS 
 125873-PESQUISA EM ZOOLOGIA 
 125881-EST SUPERVISIONADO IMUNOLOGIA 
-125890-Est Ens Aprend à Distância 
 125903-ESTAGIO SUP EM VIROLOGIA 
 125911-PESQ AVAL E MEDID PSICOLOGIA 
 125920-PRATICAS DE EMBRIOLOGIA 
 125938-ECOLOGIA TROPICAL 
 125946-PESQUISA EM TOXINOLOGIA 
 125954-Pesq em Aval e Med Psicol 2 
-125962-Pesq em Psicol Organizacões 2 
-125971-PESQUISA EM ERGONOMIA 
 126004-BIOLOGIA DOS ARACNIDEOS 
 126012-FITOPATOLOGIA GERAL 
 126021-Microorganismos Fitopatogênico 
@@ -1216,10 +1106,8 @@
 126802-E S Psi- Area Inter Psicoss 3 
 126811-Est Sup Psi-Area Psi Escolar 1 
 126829-Est Sup Psi-Area Psi Escolar 2 
-126837-Est Sup Psi-Area Psi Escolar 3 
 126845-Est Sup Psi-Area Psi  Saúde 1 
 126853-Est Sup Psi Area Psi  Saúde 2 
-126861-Est Sup Psi Area Psi Saúde 3 
 126870-Est Sup Psi-Area An Comp Apl 1 
 126888-Est Sup Psi-Area An Comp Apl 2 
 126896-Est Sup Psi-Area An Comp Apl 3 
@@ -1237,37 +1125,11 @@
 127019-Biologia de Coleópteros 
 127086-Pesq em Psicologia da Saúde 
 127132-Embriologia Humana Fundamental 
-127159-Tópicos Compl em Histologia 
 127167-Superdot, Talento e Des Humano 
-127175-Tópicos em Microbiologia 
 127183-Est Sup Basico em Psicologia 
-127191-Estagio S P C Ens Fundamental 
-127221-Pedagogia Ed Fis Ed Infantil 
-127248-Pedagogia Esportes Coletivos 
-127256-Educacao Fis Port Ne Especiais 
-127264-Aprend e Desenvolvimento Motor 
-127272-Programas Apt Fis Apl Educacao 
-127281-Organizacao Eventos Edu Fisica 
-127299-Pedagogia Ed Fi En Fundamental 
-127302-Pedagogia Lutas Artes Maciais 
-127311-Educacao Fisica e Saúde 
-127329-Pedagogia da Danca Escolar 
-127337-Trabalho Conclusao do Curso I 
-127345-Estagio Sup S C E Fundamental 
-127353-Lazer, Trabalho e Sociedade 
-127361-Politicas Púb Edu e Edu Fisica 
-127370-Manisfestacões Alt C Esportiva 
-127388-Trabalho Conclusao do Curso II 
-127396-Pedagogia Educ Fis Ensin Medio 
-127400-Estagio Superv no Ensino Medio 
-127418-Fisica Zero 
-127531-O Uso do Amb Virt Aprendizagem 
-127591-Fronteiras da Fisica 
 128007-PESQ EM PSI DAS ORGANIZACOES 
 128015-PESQUISA EM PSI DO TRABALHO 
 128023-Pesq em Psicol do Trabalho 2 
-128031-PESQ PSIC AMBIENTAL 
-128040-PESQ PSIC AMBIENTAL 2 
 130125-Politica e Estado nas Americas 
 130176-Estagio em Extensao 1 
 130184-Estagio em Extensao 2 
@@ -1457,7 +1319,6 @@
 139530-Textos Filosóficos Gregos 3 
 139564-TEXTOS FILOSOFICOS LATINOS 3 
 139599-SEMIN ESPECIAL DE FILOSOFIA 2 
-139611-DISSERTACAO FILOSOFICA 1 
 139637-PRATICA DE ENSINO 2 
 139653-IDEIAS FIL EM FORMA LITERARIA 
 139661-HISTORIA REGIONAL 
@@ -1622,20 +1483,14 @@
 144347-COMPOSICAO MUSICAL 5 
 144355-COMPOSICAO MUSICAL 6 
 144363-COMPOSICAO MUSICAL 7 
-144371-COMPOSICAO MUSICAL 8 
 144401-REGENCIA 1 
 144410-REGENCIA 2 
 144436-REGENCIA 4 
 144444-REGENCIA 5 
-144479-REGENCIA 8 
 144509-INTRODUCAO A MUSICOLOGIA 
-144703-CANTO 1 
 144711-CANTO 2 
 144720-CANTO 3 
 144738-CANTO 4 
-144746-CANTO 5 
-144754-CANTO 6 
-144762-CANTO 7 
 144771-CANTO 8 
 144801-TECNICA DE EXPRESSAO VOCAL 1 
 144851-ANALISE MUSICAL 1 
@@ -1775,7 +1630,6 @@
 147664-LINGUA ITALIANA 3 
 147800-MORFOSSINT CONTR LG MODERNAS 
 147826-JAPONÊS - EXPRESSaO ORAL 2 
-147842-JAPONÊS - EXPRESSaO ESCRITA 1 
 147885-Lexicografia 
 147893-Tóp Interculturais em Ens PL 2 
 147907-Laboratório de Gramatica 
@@ -1786,64 +1640,34 @@
 147958-Persa 1 - Farsi   1 
 147982-Persa 2 - Farsi 2 
 148008-INTRODUCAO AO VIOLINO 1 
-148016-INTRODUCAO AO VIOLINO 2 
-148024-VIOLINO 1 
-148032-VIOLINO 2 
-148041-VIOLINO 3 
 148059-VIOLINO 4 
 148067-VIOLINO 5 
-148075-VIOLINO 6 
-148083-VIOLINO 7 
-148091-VIOLINO 8 
 148105-INTRODUCAO A VIOLA 1 
 148113-INTRODUCAO A VIOLA 2 
 148121-VIOLA 1 
 148130-VIOLA 2 
-148148-VIOLA 3 
 148156-VIOLA 4 
 148164-VIOLA 5 
-148172-VIOLA 6 
-148181-VIOLA 7 
-148199-VIOLA 8 
 148202-INTRODUCAO AO VIOLONCELO 1 
-148211-INTRODUCAO AO VIOLONCELO 2 
-148229-VIOLONCELO 1 
-148237-VIOLONCELO 2 
 148245-VIOLONCELO 3 
 148253-VIOLONCELO 4 
-148261-VIOLONCELO 5 
 148270-VIOLONCELO 6 
-148288-VIOLONCELO 7 
-148296-VIOLONCELO 8 
 148326-CLARINETA 1 
 148351-CLARINETA 4 
 148369-CLARINETA 5 
 148407-INTRODUCAO AO OBOE 1 
-148415-INTRODUCAO AO OBOE 2 
 148423-OBOE 1 
-148431-OBOE 2 
 148440-OBOE 3 
-148458-OBOE 4 
-148466-OBOE 5 
-148474-OBOE 6 
-148482-OBOE 7 
-148491-OBOE 8 
-148521-TROMPA 1 
 148601-INTRODUCAO AO FAGOTE 1 
-148610-INTRODUCAO AO FAGOTE 2 
-148628-FAGOTE 1 
-148652-FAGOTE 4 
 148776-FLAUTA 6 
 148814-INTRODUCAO AO PIANO 2 
 148822-PIANO 1 
 148831-PIANO 2 
 148849-PIANO 3 
 148857-PIANO 4 
-148865-PIANO 5 
 148873-PIANO 6 
 148881-PIANO 7 
 148890-PIANO 8 
-148903-EST SUPERVISIONADO EM CANTO 
 148920-PRATICA DE CONJUNTO 1 
 148938-PRATICA DE CONJUNTO 2 
 148946-PRATICA DE CONJUNTO 3 
@@ -1851,24 +1675,16 @@
 148962-Pratica de Conjunto 5 
 148971-Pratica de Conjunto 6 
 148989-INTRODUCAO AO TROMPETE 1 
-148997-INTRODUCAO AO TROMPETE 2 
 149004-TROMPETE 1 
-149012-TROMPETE 2 
 149021-TROMPETE 3 
 149039-TROMPETE 4 
-149047-TROMPETE 5 
 149055-TROMPETE 6 
 149063-TROMPETE 7 
 149080-INTRODUCAO AO CONTRABAIXO 1 
-149098-INTRODUCAO AO CONTRABAIXO 2 
 149101-CONTRABAIXO 1 
-149110-CONTRABAIXO 2 
 149128-CONTRABAIXO 3 
 149136-CONTRABAIXO 4 
 149144-CONTRABAIXO 5 
-149152-CONTRABAIXO 6 
-149161-CONTRABAIXO 7 
-149179-CONTRABAIXO 8 
 149187-INTRODUCAO AO SAXOFONE 1 
 149195-INTRODUCAO AO SAXOFONE 2 
 149209-SAXOFONE 1 
@@ -1876,19 +1692,13 @@
 149225-SAXOFONE 3 
 149233-SAXOFONE 4 
 149241-SAXOFONE 5 
-149250-SAXOFONE 6 
-149268-SAXOFONE 7 
-149276-SAXOFONE 8 
 149284-INTRODUCAO AO VIOLAO 1 
 149292-INTRODUCAO AO VIOLAO 2 
 149306-VIOLAO 1 
-149314-VIOLAO 2 
 149322-VIOLAO 3 
-149331-VIOLAO 4 
 149349-VIOLAO 5 
 149357-VIOLAO 6 
 149365-VIOLAO 7 
-149373-VIOLAO 8 
 149381-PRATICA DE ORQUESTRA 1 
 149390-PRATICA DE ORQUESTRA 2 
 149403-PRATICA DE ORQUESTRA 3 
@@ -1906,22 +1716,12 @@
 149586-CONTRAPONTO E FUGA 3 
 149594-EST SUPERV EM COMPOSICAO 
 149608-EST SUPERV EM REGENCIA 
-149632-EST SUPERV EM CONTRABAIXO 
-149641-EST SUPERV EM SAXOFONE 
 149659-EST SUPERV EM VIOLINO 
-149667-EST SUPERV EM VIOLA 
-149675-EST SUPERV EM VIOLONCELO 
 149691-EST SUPERV EM OBOE 
 149730-EST SUPERV EM PIANO 
 149748-EST SUPERV EM VIOLAO 
 149756-TROMBONE 1 
-149772-TROMBONE 2 
-149781-TROMBONE 3 
-149799-TROMBONE 4 
-149802-TROMBONE 5 
-149811-TROMBONE 6 
 149829-TROMBONE 7 
-149837-TROMBONE 8 
 149845-EST SUPERVISIONADO EM TROMBONE 
 149853-APRECIACAO MUSICAL 
 149896-Format Proj Audiov e Cap Recur 
@@ -1941,10 +1741,8 @@
 150339-Top Esp em Comunicacao 5 
 150355-Top Esp em Comunicacao 7 
 150363-Top Esp em Comunicacao 8 
-150401-Introducao ao Trombone 1 
 150410-Introducao ao Trombone 2 
 150428-Ópera - Estudio 3 
-150436-Ópera - Estudio 4 
 150444-Ópera - Estudio 5 
 150525-Fund da Linguistica Aplicada 
 150533-Introd à Saude do Adolescente 
@@ -2032,7 +1830,6 @@
 155403-Estetica e História da Arte 
 155411-Trabalho Final de Graduacao 
 155420-Saber Local - Comunid e Arquit 
-155535-Ensaio em Tec da Arq e Urb 
 156124-Dip Artes Plast icas - Lic 
 156132-MATERIAIS EM ARTE 2 
 156264-ARTE ELETRONICA 1 
@@ -2083,9 +1880,6 @@
 157805-Ópera - Estúdio 2 
 157821-Producao Cultural 
 157830-Estudos Dirigidos em Design 2 
-157848-Estudos Dirigidos em Design 3 
-157856-Estudos Dirigidos em Design 4 
-157872-Fund Tec VocalInstrumental 1 
 157881-Fund Tec VocalInstrumental 2 
 157899-Fund Tec VocalInstrumental 3 
 157911-Seminario Educacao Musical 2 
@@ -2100,14 +1894,12 @@
 158101-Introducao ao Piano Popular 2 
 158119-História da Música 3 
 158127-História da Música 4 
-158135-Laboratório Orquestral 1 
 158143-Poeticas Teatrais 
 158151-Teor Proc Criat p Cena 
 158160-Teatralidades Brasileiras 
 158178-A Voz em Performance 
 158186-A Palavra em Performance 
 158194-Voz Palav Perf Teatr Comtemp 1 
-158208-Voz Palav Perf Teatr Contemp 2 
 158216-Interpretacao Teatral 1 
 158224-Interpretacao Teatral 2 
 158232-Interpretacao Teatral 3 
@@ -2249,11 +2041,9 @@
 166804-Barragens Terra Enrocamento 
 166839-TOP ESP EM TRANSPORTES 1 
 166847-TOPICOS ESP TRANSPORTE 2 
-166855-TOP ESP EM TRANSPORTES 3 
 166863-INTROD MET ELEMENTOS FINITOS 
 166910-AVAL ECON PROJ EM ENG CIVIL 
 166928-ORG OPER DE TRANSP PUBLICOS 
-166936-TECNOLOGIA DE TRANSPORTE 
 166944-PATOLOGIA DAS CONSTRUCOES 
 166952-Materiais de Construcao-Teoria 
 166961-Mat de Construcao -Experiment 
@@ -2376,7 +2166,6 @@
 170381-Projeto Final de Graduacao 1 
 170399-Projeto Final de Graduacao 2 
 170526-Bioprospeccao Farmacêutica 
-170534-Utilizacao Plantas Forrageiras 
 170577-Patologia Geral Veterinaria 
 170585-Hidro Peq Bacias Hidrograficas 
 170593-Informacao e Infor em Saúde 
@@ -2389,7 +2178,6 @@
 170755-Culturas Graniferas de Verao 
 170771-Concretos Especiais 
 170798-ELEMENTOS DE AUTOMAcaO 
-170810-Projeto Integrador 1 
 170852-Vibracões Industriais 
 170861-Epidemiologia Descritiva 
 170879-S S 1:Introd Ciên Saúde 
@@ -2403,19 +2191,15 @@
 170984-Do Gene à Vida 
 170992-Seminario Integrativo 2 
 171000-Epidemiologia Analitica 
-171026-ANATOMIA HUMANA 
 171051-Patologia Geral 
 171069-Estagio 1 em Patologia 
 171077-Patologia Sistemica 
 171131-IMAGINOLOGIA 
 171140-Medicina Legal e Deont Medica 
 171158-Modelos Exper em Patologia 
-171221-ANATOMIA APLICADA 
-171271-EMBRIOLOGIA MEDICA 
 171654-ANATOMIA DA CRIANCA 
 171662-Imunologia Medica 
 172065-CLINICA CIRURGICA 
-172103-APARELHO RESPIRATORIO 2 
 172201-DERMATOLOGIA 
 172219-OFTALMOLOGIA 
 172227-OTORRINOLARINGOLOGIA 
@@ -2440,20 +2224,15 @@
 173231-GINECOLOGIA 
 173258-PSIQUIATRIA 
 173266-Estagio em Pediatria 
-173291-Est Ginecologia e Obstetricia 
 173410-FUNDAMENTOS DE PSICOPATOLOGIA 
 173428-Psicologia Medica 
-173690-BASES DA ONCOLOGIA CLINICA 
 173967-HISTORIA DA MEDICINA 
 173975-PEDIATRIA CLINICA E CIRURGICA 
-174009-ANATOMIA MEDICA 
-174025-NEUROANATOMIA MEDICA 
 174033-FISIOLOGIA MEDICA 2 
 174041-BASES DA CIRURGIA 
 174050-BASES DA ANESTESIOLOGIA 
 174076-FISIOLOGIA MEDICA 1 
 174084-ELEMENTOS DE ANATOMIA 
-174092-HISTOLOGIA MEDICA 
 174106-SAUDE MENTAL EM SAUDE COLETIVA 
 174114-ELABORACAO TRABALHO CIENTIFICO 
 174149-Lab Antrop Saúde e da Doenca 
@@ -2461,7 +2240,6 @@
 175013-Pratica Desportiva 
 175111-Metodologia dos Desp Nacionais 
 175129-NATACAO 1 
-175145-Metod da Ginastica Artistica 
 175170-FISIOLOGIA DO EXERCICIO 1 
 175188-FISIOLOGIA DO EXERCICIO 2 
 175200-Cinesiologia Aplicada à EDF 
@@ -2491,7 +2269,6 @@
 175871-METODOLOGIA DO ATLETISMO 
 175889-Met e Tec Pesq em EDF 
 175897-Gest Ev Esporte, Saúd Lazer 
-175927-FORMACAO RITMICA DO MOVIMENTO 
 175935-Estagio Supervisionado B EDF 2 
 175943-METOD DAS ATIV FIS ALTERNATIVA 
 175960-METODOLOGIA DO BASQUETEBOL 
@@ -2540,7 +2317,6 @@
 176729-Introd à Engenharia Ambiental 
 176737-Transporte e Meio Ambiente 
 176745-Introducao à Engenharia Urbana 
-176753-Projeto Integrador 2 
 176770-Aquicultura 
 176788-Aval Carcacas Qual da Carne 
 177148-Bioetica, Legisl Enfermagem 
@@ -2548,7 +2324,6 @@
 177270-SISTEMAT ASSIST DA ENFERMAGEM 
 177296-METODOLOGIA  PESQUISA EM SAÚDE 
 177318-Tóp Av em Prom. da Saúde 1 
-177334-Epistemologia Ciências Saúde 
 177342-Clinica Odontológica 1 
 177351-Politicas Públicas em Saúde 
 177369-Demografia e Bioestatistica 
@@ -2557,7 +2332,6 @@
 177393-Anatomia de Cabeca e Pescoco 
 177407-Introducao à Pesq Cientifica 
 177415-Dentistica 
-177423-Seminarios Integrados 1 
 177431-Saúde Bucal Coletiva 2 
 177440-Epidemiologia Aplicada 
 177458-Cirurgia Bucomaxilofacial 
@@ -2566,7 +2340,6 @@
 177491-Odontopediatria 2 
 177512-Trabalho Conclusao de Curso 2 
 177539-Trabalho Conclusao de Curso 3 
-177563-Saúde Bucal Coletiva 3 
 177571-Praticas Saúd Bucal Coletiva 1 
 177580-Diagnóstico Bucal 
 177601-Praticas Saud Bucal Coletiva 3 
@@ -2591,7 +2364,6 @@
 178250-OCLUSAO 
 178292-Odontologia Forense 
 178420-ORTODONTIA 1 
-178519-ODONTOLOGIA PEDIATRICA 2 
 178781-ORTODONTIA 2 
 178799-FUND SOCIO POL DO ESPORTE 
 178802-ODONTOLOGIA PEDIATRICA 3 
@@ -2612,7 +2384,6 @@
 179191-ESTAGIO EM TOXICOLOGIA 
 179205-EST EM PESQ POL MEDICAMENTOS 
 179213-ESTAGIO FISIOLOGIA MOLECULAR 
-179221-ESTAGIO IMUNOLOGIA MOLECULAR 
 179230-ESTAGIO EM GENETICA MOLECULAR 
 179248-Genetica Basica e Molecular 
 179272-QUIMICA FARMACEUTICA 
@@ -2626,12 +2397,8 @@
 179426-CORP,EXPRESSAO E EDUC FISICA 
 179451-ENZIMOLOGIA TECN FERMENTAcaO 
 179477-TOXICOLOGIA 
-179493-FARMAC MOLEC EXPERIMENTAL 
-179515-TRABALHOS PRAT. EMBRIOLOGIA 
-179523-Est Assist Farmac 1- Farm Hosp 
 179531-Est Assist Farmac 2-Farm Comun 
 179558-Estagio em Farmacologia 
-179566-Prat em Quimica Farmacêutica 
 179574-Est Contr Qual de Medicamentos 
 179582-Estagio Livre 
 179591-Estagio  Analise  Medicametos 
@@ -2639,10 +2406,8 @@
 179612-Est Tecnologia Farmacêutica 
 179621-Malformacões Congênitas 
 179655-Fundam Soc-Antrop Educ Fisica 
-179663-Praticas em Quimica Orgânica 
 179671-Internato em Medicina Social 
 179701-Praticas em Neurofarmacologia 
-179744-Farmacodepend Experimental 
 179779-Tox Analit e de Alimentos 
 179809-Implantodontia Bucomaxilofacia 
 179825-S e S 2: A Cons Soc Proc Doen 
@@ -2659,11 +2424,8 @@
 179931-Met  Peri Cresc Neurod 1 
 179949-Met Peri Cres Neurod 2 
 179965-Met de Pesq Ciên Farmacêuticas 
-179973-Responsab Civil Prof de Saúde 
 179981-Comunicacao em Saúde 
 179990-Ciências Sociais em Saúde 
-180106-Direito Administrativo 
-180181-Estatistica Aplicada a Adminis 
 180408-Introducao à Museologia 
 180416-FARMACOBOTÂNICA 
 180424-Integ dos Processos Vitais 
@@ -2811,7 +2573,6 @@
 182974-Projeto de Música 
 183008-Instrumento 4 - Teclado 4 
 183016-Instrumento 4 - Violao 4 
-183024-Percepcao e Estrut Musical 4 
 183032-Prat de Instrum de Percussao 2 
 183067-Instrumento 5 - Teclado 5 
 183075-Instrumento 5 - Violao 5 
@@ -2901,8 +2662,8 @@
 185850-Fundamentos de Pol Públicas 
 185914-Tóp Esp Ciência Politica 2 
 185922-Tóp Esp Ciência Politica 3 
-185931-COOPERACAO INTERNACIONAL 
-185957-PROTECAO INTER DOS DIR HUMANOS 
+185931-Cooperacao Internacional 
+185957-Protecao Int Direitos Humanos 
 186015-CRIACAO DE NEGOCIOS 
 186040-ESTRATEGIA EMPRESARIAL 
 186066-Gestao da Inovacao 
@@ -2926,7 +2687,7 @@
 186457-Comportamento Organizacional 
 186503-PESQUISA DE MARKETING 
 186571-Gestao de Desempenho 
-186627-TOP ESP POL INTERNACIONAL 1 
+186627-Tóp Esp Pol Internacional 1 
 186716-EXECUCAO DA GESTAO PUBLICA 
 186724-ETICA PROF CIENCIAS CONTABEIS 
 186759-CONTR E AVAL DA GESTAO PUBLICA 
@@ -2994,9 +2755,6 @@
 188786-Geografia Humana e Econ Brasil 
 188794-Regionalizacao Espaco Mundial 
 188859-Trabalho Final em Geografia 2 
-189774-Laboratório Ensino Gramatica 
-189791-Espanhol Instrumental 2 
-189804-Estrutura S F R Brasileiro 1 
 189812-Latim 1 
 189821-Estagio O Ens Fundamental S F 
 189839-Machado Assis E U C Periferica 
@@ -3035,27 +2793,13 @@
 191744-Atividades Diversificadas 2 
 191752-Introducao à Analise Discurso 
 191761-Laboratório Ensino de Redacao 
-191779-Politica Educacional 2 
-191787-Teoria Pedagógica 4 
 191795-Trabalho de Conclusao 1 
 191809-Praticas Pedagógicas 6 
 191817-Estagio Curricular S. 2 - EJA 
 191825-Seminario Integrador 2 
 191833-Out. F. ativ.: Espan Instru 1 
-191841-LIN: Sintaxe Lingua Portuguesa 
-191850-Estudos Literarios 3 
-191868-Metod Cul: Artes PLast 
-191876-Artes e Sociedade 3 
-191892-Educacao Financeira 
-191906-Fluxo de Energia Ciclos Bios 
-191914-Diversidade dos Seres Vivos 
 191922-Trabalho de Conclusao 2 
-191931-Praticas Pedagógicas 7 
 191949-Estagio C S 3 Gestao Docência 
-191957-Tópicos Linguistica Avancada 
-191965-Estudos Literarios 4 
-191973-Metodologias Culturais 3 
-191981-Artes e Sociedade 4 Música 
 192007-Estatisitca e a Vida no Campo 
 192015-Didatica Fundamental 
 192104-Curriculo 
@@ -3077,7 +2821,6 @@
 193313-Genetica e Evolucao 
 193321-Engenharia Econômica 
 193402-História do Teatro no Brasil 
-193437-Proj Int Ens Aprendizagem 1 
 193445-Estagio Supervisionado 3 
 193461-Est Curr Superv em Teatro 4 
 193518-Trabalho de Conclusao de Curso 
@@ -3085,18 +2828,16 @@
 193542-Processos de Encenacao 
 193585-Proj Inter Ens Aprendizagem 2 
 193623-Top Esp de Eng de Software 
-193631-Sistemas de Bancos de Dados 
+193631-Sistemas de Banco de Dados 1 
 193640-Met de Desenv de Software 
 193666-Gestao Ambiental no Setor Ener 
 193674-Fund Arq de Computadores 
 193682-Fund da Teoria Eletromagnetica 
 193691-Fisica Moderna 
-193704-Estrut de Dados e Algoritmos 
+193704-Estrut de Dados 1 
 193712-Eng de Seguranca do Trabalho 
 193721-Calculo Integral e Vida Campo 
 193739-Calculo Diferencial Vida Campo 
-193747-Grades Temas Amb Mundiais 
-193755-O F At Espanhol Instrumental 2 
 193763-Realidade Brasileira 2 
 193771-Politica Educacional 3 
 193780-Escola e Educacao no Campo 2 
@@ -3105,7 +2846,6 @@
 193810-Estagio C s 4 Gestao Docência 
 193828-Seminario Integrador 4 
 193836-O F A Acesso Prod Culturais 
-193844-Seminario Integrador 3 
 193861-Proj Integrador Engenharia 1 
 193879-Ergonomia do Produto 
 193909-Historiografia Lit Brasileira 
@@ -3144,52 +2884,33 @@
 195219-Educ Rel Etnico-Raciais 
 195227-Simul em Ensino de Fisica 
 195235-Trabalho de Campo 1 
-195251-Medidas e Aval na Ed Fisica 
-195260-Nutricao Apl à Educacao Fisica 
-195278-Pedagogia dos Esp Individuais 
-195286-Pesquisa em Educacao Fisica 
-195294-Praticas Curriculares 3 
 195308-Mecanica Sólid 1 p Engenharia 
 195316-Design de Veiculos 
 195324-Combustiveis e Biocombustiveis 
 195332-Probabil Est Apl  Engenharia 
 195341-Orientacao a Objetos 
 195383-Introd a Classe Hospitalar 
-195391-Educacao de Adultos 
 195413-Metodos Numer P Engenharia 
 195430-Pratica Pedagóg em Geografia 1 
 195456-Geografia da Populacao 
-195472-Pratica Pedagógica 5 
-195481-Outras For Ativ:Of Leit P Te 2 
 195499-Est Curr Sup 1 - Comunidade 
 195502-Fon, Fon e Morf Português 
-195511-Est Lit 2:Con Sist Lit e D Nac 
-195529-Arte e Sociedade 2 : Teatro 
-195537-Met Cult Trab Educ 1:Teatro 
 195545-Hidrodin e Term Vida no Campo 
-195553-Da Domest às Leis da Heranca 
-195561-Eletromagnet e a Vida no Campo 
-195570-O Organismo 
 195588-Estagio Supervisionado 
 195596-Canais de Distrib de Alimentos 
 195600-Teo, Con Metod Educ Ambiental 
 195618-Antrop Ecol Etno Ges Bens Com 
 195634-Educacao Matematica 1 
-195651-Filosofia da Educacao 
 195677-Estagio Sup Reg Ensino Medio 
 195685-Filologia Românica 
 195693-O Português S Lingua Brasil 1 
 195707-Poesia I B P P Seculo XX e XXI 
-195723-Estagio Obs Es Jovens Adultos 
 195740-Literatura Infanto-Juvenil 
-195758-Literatura Indústria Cultural 
-195766-Estagio de Obs Ensino Especial 
 195774-Atividades D 6 - Monografia 1 
 195821-Laboratório de Quimica 1 
 195839-Fundamentos Qui Inorgânica 
 195847-Quimica Moderna 
 195855-Tóp Especiais em Geociências 
-195928-Educacao para a Saúde 
 195936-Morfofisiologia Comparada 
 195944-Introducao a Paleontologia 
 195961-História Ambiental 
@@ -3252,71 +2973,28 @@
 196835-Meio Ambiente e Cidadania 
 196843-Ener Din Transf Quimicas 
 196851-Eletromagnetismo em Ciências 
-196908-Compos Qui dos Seres Vivos 
-196924-Gestao Cadeia de Suprimentos 
-197009-Economia Politica 1 
-197017-Filosofia 1 
-197025-Teoria Pedagógica 1 
-197033-Politica Educacional 1 
-197041-Escola e Educacao do Campo 1 
-197050-Sujeitos do Campo 
-197068-Pesquisa e Memória 1 
-197076-Praticas Pedagógicas 1 
-197084-Out Formas Ativ:Inserc Comunit 
 197106-Proc de Desenv e Aprendizagem 
-197131-Hist da Educ e Educ Fisica 
-197149-Fund Anat Hum Cin Apl Ed Fisic 
 197190-Projeto 1 
 197203-Estrat de Aprend à Distância 
 197211-Fundamentos do Curso 
-197238-Gestao Unid Famil de Producao 
-197246-Org Esc Meto Trab Pedagógico 1 
 197254-Teoria Pedagógica 2 
 197262-Mediac Ent Form Soc e Estetica 
-197271-Intro Estu Area Ciêm Hum Soc 
-197289-Pesquisa 2 
 197297-Economia Politica 2 
 197301-Filosofia 2 
-197319-Saúde, Sexualidade  Reproducao 
 197327-Praticas Pedagógicas 2 
-197335-Tec Let Interp de Textos 
-197343-Outr Form Ativ:Ofic Inform 1 
-197351-Fund Biol Apl à Educ Fisica 
 197394-Trab de Conclusao de Curso 1 
 197408-Biodiversidade Brasileira 
 197416-Tecnol de Prod Agroindustriais 
 197424-Gestao Ambiental 
 197432-Gestao de Cooperativas 
 197459-Transp e Logist Agroindustrial 
-197491-Praticas Pedagógicas 3 
 197505-Seminario Integrador 1 
-197513-Hist e Fil Fisica Matematica 
-197521-Pesquisa 3 
-197530-Estetica e Politica 
-197548-Tecnicas e Producao de Textos 
-197556-Economia Politica 3 
 197564-Conc Org Ciên Humanas Sociais 
-197572-Org Esc Meto Trab Pedagógico 2 
-197581-Ecologia do Agrossistemas 
-197599-Filosofia 3 
-197602-Teoria Pedagógica 3 
-197611-Outras Form Ativ:Ofic Inform 2 
-197637-Introducao Ling: Fundamentos 
-197645-Psicologia e Escola 
 197653-Tec Cont na Escola 1 
 197661-A Psico Constr do Conhecimento 
 197696-Atelier de Artes Visuais 1 
 197751-Instrumento  1 - Violao 1 
 197785-Canto 1 
-197815-História  Educacao Brasileira 
-197823-Fundamentos da Educacao 
-197866-Leitura e Producao de Textos 
-197874-Introducao à Teoria Literaria 
-197882-Didatica da Educacao Fisica 
-197891-Comunic, Expres e Est Acadêmic 
-197904-Fundamentos da Educacao Fisica 
-197912-Jogo e Eucacao Fisica 
-197921-Praticas Curriculares 1 
 197980-Projeto 2 
 197998-Climatol Mud Climat Globais 
 198005-Engenharia e Ambiente 
@@ -3324,17 +3002,12 @@
 198056-Classicos Universais 
 198064-Variacao Linguistica 
 198099-Morfossintaxe da Lg Portuguesa 
-198102-Projeto Pedagogico 
-198111-Manifest Ritmicas Expressivas 
 198129-Psicologia da Educacao 
-198137-Fundamentos Fisiológicos  Edf 
-198153-Praticas Curriculares 2 
 198161-Iniciacao à Ciência Geografica 
 198188-Fund Basicos em Climatologia 
 198200-Informatica Basica 
 198234-História da Arte-Educacao 1 
 198269-Tecnol Contemp na Escola 2 
-198307-Percepcao e Estrut Musical 2 
 198315-Introd Pesquisa em Música 
 198323-Praticas Musicais da Cultura 1 
 198331-Instrumento 2 - Teclado 2 
@@ -3344,23 +3017,11 @@
 198412-Intro à Saúde Públ e Ambiental 
 198439-Elab e An de Proj Agroindustri 
 198447-Gestao Negócios Internacionais 
-198463-Seminario Integrador 2 
 198579-Desenv Humano e Aprendizagem 
 198587-Desenv Humanao Aprendizagem 2 
-198668-Questao Agraria 
-198676-Realidade Brasileira 1 
 198722-Filosofia 4 
-198731-Filosofia 5 
 198773-Pesquisa 4 
-198781-Pesquisa 5 
 198803-Trab de Conclusao de Curso 2 
-199044-Org Esc Met de Trab Ped 3 
-199052-Met Org Educ Comunitaria  1 
-199061-Met Org e Educ Comunitaria 2 
-199079-Met Org Educ Comunitaria 3 
-199087-Proj de Desenv do Campo 
-199117-Pratica Pedagógica 4 
-199125-Out For Ativ:Of Leit Pro Tex 1 
 199133-Humanidades e Cidadania 
 199150-Elementos e Met em Eletrônica 
 199168-Sistemas Automotivos 
@@ -3369,9 +3030,6 @@
 199192-Feminismos e Teoria Queer 
 199231-Fundamentos da Linguistica 
 199249-Est Lit 1: Literatura e Nacao 
-199257-Arte e Sociedade 1: Teatro 
-199265-Geom, Ótica e Percep do Espaco 
-199273-Mecânica e Vida no Campo 
 199281-Composicao do Universo 
 199290-Introd aos Est Futuro Brasil 
 199311-Pol Pub Voltadas Plan Ges Amb 
@@ -3385,23 +3043,18 @@
 199851-Direitos Humanos e Cidadania 
 199877-IDENTIDADE DE GENERO 
 199958-AGRICULTURA ALTERNATIVA 
-200085-Fisica dos Plasmas 
 200107-Calculo 1 - Semipresencial 
 200140-Pensamento Negro Contemporâneo 
 200212-Projeto Rondon 
 200239-RESIRONDON 1 
 200255-ETNOVIS 
-200263-Quimica Basica 
-200301-Emergências Clinicas 
 200328-Etica, Leg e Respon Social 
 200336-Introducao ao Marketing 
 200344-Linguagens da Comunicacao 1 
 200352-introd as Teo da Comunicacao 
 200361-Introducao ao Planejamento 
 200379-Fund Comput de Robótica 
-200433-Atividades Div 7 Monografia 2 
 200450-Sedimentologia e Estratigrafia 
-200468-Grandes Temas Amb do Campo 
 200492-História: Natureza e Cultura 
 200514-Estagio em Quimica Tecnológica 
 200522-Trabalho de Conclusao de Curso 
@@ -3492,7 +3145,6 @@
 201707-Introducao Geologia Estrutural 
 201715-Introd Fotogeologia Sen Remoto 
 201723-Sismica 2 
-201731-Geofisica Nuclear 
 201740-Trabalho Final - Geofisica 
 201758-Processamento Int Geofis Aerea 
 201871-Canto Coral 4 
@@ -3583,7 +3235,6 @@
 203114-Filosofia e Hist das Ciências 
 203122-Seminarios em Biologia 
 203131-Praticas Cirúrg em Peq Animais 
-203203-Praticas d Educacao Ciências 1 
 203220-Fatores Producao Agropecuaria 
 203238-Politica, Financ O P Públicas 
 203246-Cargos no Servico Público 
@@ -3634,8 +3285,8 @@
 203831-Projeto Circ Integr Digitais 
 203858-Plan e Gestao de Energia 
 203866-Dinâmica dos Fluidos 
-203874-Gestao Portif Proj Software 
-203882-Desenho de Software 
+203874-Eng de Produto de Software 
+203882-Arquitet e Desenho de Software 
 203891-Medicao e Analise 
 203904-Paradigmas de Programacao 
 203912-Fundamentos Redes Computadores 
@@ -3653,7 +3304,6 @@
 204137-Lab de Tec Qui Basicas 
 204200-Introducao a Anatomia Vegetal 
 204218-Microbiologia 
-204226-Ecologia 2 
 204315-Teleinformatica e Redes 1 
 204323-Teleinformatica e Redes 2 
 204331-Ger e Segurancao de Redes 
@@ -3665,7 +3315,6 @@
 204498-Diversidade Vegetal 
 204510-Metodos Eletromagneticos 
 204528-Instrumento P Canto Popula 3 
-204536-Instrumento Principal Violao 3 
 204561-Cuidado Psicossocial em Saúde 
 204579-Gerenciamento Servicos Saúde 
 204587-Clinica Odontológica 4 
@@ -3676,31 +3325,6 @@
 204633-Biogeografia 
 204650-Instr Princ Contrabaixo Elet 2 
 204668-Instrumento Princ Guitarra 2 
-204676-Informatica p Administradores 
-204731-Redacao Oficial 
-204757-Sociologia Organizacional 
-204773-Contabilidade Pública 
-204781-Instituicões de D P e Privado 
-204790-Seminario Tematico 2 
-204846-Seminario Tematico 3 
-204862-Gestao de P no Setor Público 
-204897-Legislacao Tribut e Comercial 
-204943-Orcamento Público 
-204951-Administracao Estrategica 
-204960-Gestao Operacao e Logistica 2 
-204978-Elaboracao e Gestao de Projeto 
-205044-Negociacao e Arbitragem 
-205052-Auditoria e Controladoria 
-205061-Tecnologia e Inovacao 
-205079-Gestao de Redes C Esf Pública 
-205087-Gestao da Regulacao 
-205133-Politicas públicas e Sociedade 
-205141-Gestao Amb e Sustentabilidade 
-205150-Relacões Internacionais 
-205168-Empreendedorismo Governamental 
-205176-Seminario T Gest Púb Saúde 4 
-205184-Seminario Tem Ges Municipal 4 
-205192-Seminario Tem Governamental 4 
 205214-Principios de Geofisica 1 
 205222-Principios de Geofisica 2 
 205249-Museu, M e P Contemporaneidade 
@@ -3742,11 +3366,7 @@
 205877-Francês 1 
 205885-Francês 2 
 205907-Epidemiologia Acident Trânsito 
-205915-Tópicos Mic:T T I, Estr Funcao 
 205974-Genetica 
-205982-Zoologia Vertebrados 
-205991-Praticas Educacao Ciencias 2 
-206016-Praticas de Educ em Biologia 1 
 206032-Farmacia C e Aten Farmacêutica 
 206041-Pesquisa em Gerontologia 
 206059-T Avan Fis Sau Mulh: Bas Cien 
@@ -3783,20 +3403,17 @@
 206547-Epidemiologia Aplicada à EDF 
 206563-Relacões Intern da Africa 
 206571-Fund de Fis-Quimica 
-206580-Verif Valid de Software 
-206598-Manut e Evol de Software 
-206601-Desenv Avan de Software 
+206580-Testes de Software 
+206598-Gerên Config Evol Software 
+206601-Tec de Prog em Plat Emerg 
 206628-Gerência de Config de Software 
 206644-Top em Redes de Comunicacao 1 
 206652-Top em Redes de Comunicacao 2 
 206709-Aspec Qui de Qual da Agua 
 206717-Aspec Qui de Qual Agua Exper 
-206725-Instrumento Princ Guitarra 3 
 206733-Instrumento Princ Guitarra 4 
 206741-Instrumento Princ Trombone 1 
 206750-Instrumento Princ Trombone 2 
-206768-Instrumento Princ Trombone 3 
-206776-Instrumento Princ Trombone 4 
 206831-Des Mecânico para Engenharia 
 206849-Estagio Sup Ens Ciência Nat 2 
 206857-Estagio Sup Ens Ciências Nat 3 
@@ -3810,7 +3427,6 @@
 206997-TC C em Gestao Ambiental 1 
 207004-Maquinas de Fluxo 
 207012-Governo Eletrônico P Públicas 
-207039-Trabalho de Conclusao 
 207047-Semiologia e S Apl  Enfermagem 
 207080-Instrumento Principal Violao 4 
 207101-Instr Supl Canto Popular 2 
@@ -3871,7 +3487,6 @@
 208116-Seminario de Pesq Ed Fisica 
 208124-Met Qualit Apl ao Agronegócio 
 208132-Principios de Soc Econômica 
-208141-Tópicos Especiais em Pediatria 
 208159-Anatomia Animal 2 
 208175-Proj Integrador Engenharia 2 
 208183-Centrais Geracao Termoeletrica 
@@ -3914,8 +3529,6 @@
 208833-Redes Locais 
 208892-Histologia 
 208914-Bioquimica Fundamental 
-208957-Estagio Sup Ensino de Ciências 
-208973-Praticas Educacao Biologia 2 
 209015-Tecnologia Aplicada à Farmacia 
 209023-Materias P Constru Experiment 
 209031-Materiais Para Construcao 2 
@@ -3936,8 +3549,6 @@
 209295-Linguas, Lexico e Terminolog 2 
 209309-Linguistica de Corpus 
 209317-Trabalho de Conclusao de Curso 
-209325-Sem Pres Conclus Curso Teatro 
-209333-Trab Conclusao do Curso Teatro 
 209341-Metabol e Regulacao Metabólica 
 209350-Lingua Espanhola 8 
 209368-Lingua Espanhola 9 
@@ -3946,5 +3557,3 @@
 209392-Trabalho de Conclusao de Curso 
 209465-Seminario em Ed Musical 3 
 209473-Seminario Educacao Musical 4 
-209538-Instrumento Principal Violao 5 
-209546-Instrumento Principal Violao 6 

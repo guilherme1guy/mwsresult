@@ -1,6 +1,6 @@
 Segunda
-18:00
-19:50
+12:00
+13:50
 Terça
 18:00
 19:50
@@ -14,9 +14,10 @@ Sexta
 18:00
 19:50
 Sábado
+12:00
+13:50
+Sábado
 14:00
 15:50
-Sábado
-16:00
-17:50
 SEBASTIEN ROLAND MARIE JOSEPH RONDINEAU
+Campus Gama
