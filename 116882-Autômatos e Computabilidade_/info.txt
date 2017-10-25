@@ -1,4 +1,0 @@
-116882
-Autômatos e Computabilidade 
-006-000-000-008
-3
